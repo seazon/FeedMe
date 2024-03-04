@@ -1,3 +1,22 @@
+# 4.2.0
+###### 2024-3-4
+- [new] Support local RSS.
+- [new] Add Miniflux service.
+- [new] UI redesign.
+  - Login screen.
+  - Subscription list & detail screen.
+  - New OPML feed selection dialog.
+  - Move `Settings` - `Sync` - `Advanced` to subscription list screen.
+- [new] Feedly support edit subscription.
+- [optimize] FeedMe no longer responds to http/https URL intent from external app. https://github.com/seazon/FeedMe/issues/678
+- [optimize] Add option(`Settings` - `Interface` - `Full Screen Playback`) to disable auto landscape when playing video in full screen. https://github.com/seazon/FeedMe/issues/661
+- [optimize] Support Feedbin thumbnails. https://github.com/seazon/FeedMe/issues/646
+- [optimize] Adjust video height. https://github.com/seazon/FeedMe/issues/675
+- [optimize] Always show sync icon on NAV side. https://github.com/seazon/FeedMe/issues/682
+- [optimize] Adjust sync loading indicator offset. https://github.com/seazon/FeedMe/issues/681
+- [fix] Fix OPML import not work on Android 14.
+- [fix] Other minor updates.
+
 ### 4.1.8
 ###### 2024-1-18
 - [fix] Fix scrolling freezes issue when navigating previous or next articles. https://github.com/seazon/FeedMe/issues/671

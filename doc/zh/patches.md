@@ -1,3 +1,22 @@
+# 4.2.0
+###### 2024年3月4日
+- [新增] 支持本地RSS。
+- [新增] 添加Miniflux服务。
+- [新增] 部分界面重新设计。
+  - 登录界面。
+  - 订阅列表和详细信息界面。
+  - 新的 OPML 提要选择对话框。
+  - 将`设置`-`同步`-`高级`移至订阅列表界面。
+- [新增] Feedly 支持编辑订阅。
+- [优化] FeedMe 不再响应来自外部应用的 http/https URL 意图。 https://github.com/seazon/FeedMe/issues/678
+- [优化] 增加全屏播放视频时禁用自动横向的选项(`设置` - `界面` - `Full Screen Playback`)。 https://github.com/seazon/FeedMe/issues/661
+- [优化] 支持Feedbin缩略图。 https://github.com/seazon/FeedMe/issues/646
+- [优化] 调整视频高度。 https://github.com/seazon/FeedMe/issues/675
+- [优化] 始终在导航侧显示同步图标。 https://github.com/seazon/FeedMe/issues/682
+- [优化] 调整加载图标偏移。 https://github.com/seazon/FeedMe/issues/681
+- [修复] 修复 OPML 导入在 Android 14 上不起作用的问题。
+- [修复] 其他小更新。
+
 ### 4.1.8
 ###### 2024-1-18
 - [修复] 修复导航上一篇或下一篇文章时滚动冻结的问题。 https://github.com/seazon/FeedMe/issues/671
