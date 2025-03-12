@@ -19,4 +19,4 @@ A: Yes.
 - FeedMe won't use your other information in your storage.
 
 ##### Q:Is any third party library used that tracks?
-A: I have listed the third party libraries ( https://github.com/seazon/FeedMe/blob/master/doc/en/licenses.md ). You can check their documents and source codes.
+A: I have listed the third party libraries ( https://github.com/seazon/FeedMe/blob/main/doc/en/licenses.md ). You can check their documents and source codes.

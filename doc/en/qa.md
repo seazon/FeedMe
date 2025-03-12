@@ -45,8 +45,6 @@ Another tip, if images downloaded when aotu sync, the thumbnail can show without
 ### Q:TTS player stop after screen lock or FeedMe is not at foreground.
 A:Please try to search "Battery Optimization" in system settings and set both FeedMe and the using TTS engine as "Unoptimized". <a href="#qmore-tips-about-keep-feedme-alive">More tips</a>
 
-If this can't help you, get more help in this ticket: https://github.com/seazon/FeedMe/issues/287
-
 # Others
 ### Q:More tips about keep FeedMe alive.
 A:[https://dontkillmyapp.com/](https://dontkillmyapp.com/)

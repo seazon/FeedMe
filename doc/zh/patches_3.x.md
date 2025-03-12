@@ -148,7 +148,7 @@
 
 # 3.17
 ###### 2020-9-20
-- [新增]荧光标 https://github.com/seazon/FeedMe/blob/master/doc/zh/highlighter.md
+- [新增]荧光标 https://github.com/seazon/FeedMe/blob/main/doc/zh/highlighter.md
 - [新增]支持音频播放界面show notes内时间戳跳转。
 - [优化]减小文章页段落间的空格。
 - [优化]`New List`布局的图片现在有更多的显示空间。
@@ -221,8 +221,8 @@ com.seazon.feedme.action.STAR_ACTION
 
 # 3.13
 ###### 2020-2-4
-- [优化]兼容 Android 10 的存储机制，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/storage_and_cache.md">存储及缓存</a>
-- [优化]优化拦截图片功能，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/block_image.md">拦截图片</a>
+- [优化]兼容 Android 10 的存储机制，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/storage_and_cache.md">存储及缓存</a>
+- [优化]优化拦截图片功能，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/block_image.md">拦截图片</a>
 - [优化]修改 `Decode HTML` 默认为开启。
 - [修复]修复文章界面打开图片不一致问题。
 - [其他]最低支持版本提高到 Android 5。
@@ -335,7 +335,7 @@ com.seazon.feedme.action.STAR_ACTION
 
 ### 3.8.5
 ###### 2018-8-8
-- [新增] 支持黑莓key系列手机进行快捷操作。详见：https://github.com/seazon/FeedMe/blob/master/doc/zh/shortcut_key.md
+- [新增] 支持黑莓key系列手机进行快捷操作。详见：https://github.com/seazon/FeedMe/blob/main/doc/zh/shortcut_key.md
 - [优化] 右上角侧栏及返回按钮添加文字描述，方便视力不佳者。
 - [修复] 修复FeedMe mobilizer不能正确解析纯音频页面的错误。
 - [修复] 修复某些情况下在WIFI下图片不能下载的问题。
@@ -632,7 +632,7 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 
 # 3.0
 ###### 2017-3-19
-- Support podcast (not support `Feedbin`) and TTS. Please read <a href="https://github.com/seazon/FeedMe/blob/master/podcast_tts.md">Podcast & TTS</a> for the detail.
+- Support podcast (not support `Feedbin`) and TTS. Please read <a href="https://github.com/seazon/FeedMe/blob/main/podcast_tts.md">Podcast & TTS</a> for the detail.
 - Provide reading time.
 - Add `Podcast` layout, which show play or download progress.
 - Add `Lab` in `Settings`, including `Hardware Acceleration`.

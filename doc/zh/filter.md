@@ -2,13 +2,13 @@
 
 过滤设置在订阅源的设置界面。你可以看到左侧是一个切换开关，可以以不同的方式来对这个订阅源进行过滤。下面是填写过滤关键字的文本框。
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_1.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_1.png" width="25%" height="25%" />
 
 ## 过滤方式
 - `保留`：仅保留满足关键字的文章，其它文章标记为已读
 - `过滤`：仅将满足关键字的文章标记为已读
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_2.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_3.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_2.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_3.png" width="25%" height="25%" />
 
 当某个源你只关心含有某些关键字的文章时，你可以使用`保留`方式；当某个源你不想看某些关键字时，你可以使用`过滤`方式。
 

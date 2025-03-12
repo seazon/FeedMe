@@ -2,13 +2,13 @@ From version 2.4, FeedMe supports filter new articles when syncing, mark the art
 
 You can find filter in `feed setting` dialog. There is a switch on left for filter with different way. The edit text below is for writing keywords.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_1.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_1.png" width="25%" height="25%" />
 
 ## Filter Type
 - `Reserved`：Only reserved the articles which contain keywords, others mark read.
 - `Mute`：Mark the articles which contains keywords as read.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_2.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_3.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_2.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/filter_3.png" width="25%" height="25%" />
 
 If you just want to keep articles which contains some keywords, use `Reserved`. If you don't want to see some keywords, use `Mute`.
 

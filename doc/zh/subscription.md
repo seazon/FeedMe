@@ -3,7 +3,7 @@
 
 如下图所示，一共有四种类型。
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/subscription_sync_indicator.png" width="10%" height="10%" /> 
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/subscription_sync_indicator.png" width="10%" height="10%" /> 
 
 图标左半边代表是否下载图片，右半边代表是否下载全文。所以四个图标依次代表：
 - 1：下载图片，不下载全文

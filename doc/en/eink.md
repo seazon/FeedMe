@@ -4,7 +4,7 @@
 - 3. Enter the article list page - Long press the title bar at the top - Pop up the `Edit Menu` - Move the default disabled `Back`, `Up`, `Down` to the top, save **Tap menu instead swipe gesture**
 - 4. Enter the article detail page - Long press the title bar at the top - Pop up the `Edit Menu` - Move the default disabled `Back`, `Up`, `Down` to the top, save **Tap menu instead swipe gesture**
 
-For more about custom `Action Bar`, see [here](https://github.com/seazon/FeedMe/blob/master/doc/en/customize_menus.md)
+For more about custom `Action Bar`, see [here](https://github.com/seazon/FeedMe/blob/main/doc/en/customize_menus.md)
 
 # Others
 In `Settings` - `Lab`, there is an `E-Ink Screen Optimization`, which can reduce the screen flicker of the article page after it is turned on, but the menu is not available.

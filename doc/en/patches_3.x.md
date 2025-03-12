@@ -152,7 +152,7 @@
 
 # 3.17
 ###### 2020-9-20
-- [new]Highlighter https://github.com/seazon/FeedMe/blob/master/doc/en/highlighter.md
+- [new]Highlighter https://github.com/seazon/FeedMe/blob/main/doc/en/highlighter.md
 - [new]support jump/seek via time in show notes.
 - [optimize]Reduce the space between paragraphs of article page.
 - [optimize]The images in the `New List` layout have more display space.
@@ -227,8 +227,8 @@ com.seazon.feedme.action.STAR_ACTION
 
 # 3.13
 ###### 2020-2-4
-- [optimize] Compatible with Android 10 storage mechanism, please see <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md">Storage and Cache</a>
-- [optimize] Optimize the function of blocking images, please see <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/block_image.md">Blocking Images</a>
+- [optimize] Compatible with Android 10 storage mechanism, please see <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/storage_and_cache.md">Storage and Cache</a>
+- [optimize] Optimize the function of blocking images, please see <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/block_image.md">Blocking Images</a>
 - [optimize] Enable `Decode HTML` by default.
 - [fix] Fix the problem of opening wrong image in the article screen.
 - [other] The minimum supported version is increased to Android 5.
@@ -345,7 +345,7 @@ com.seazon.feedme.action.STAR_ACTION
 
 ### 3.8.5
 ###### 2018-8-8
-- [new] Support BlackBerry key series quick actions through keyboard. Link: https://github.com/seazon/FeedMe/blob/master/doc/en/shortcut_key.md
+- [new] Support BlackBerry key series quick actions through keyboard. Link: https://github.com/seazon/FeedMe/blob/main/doc/en/shortcut_key.md
 - [optimize] Add a text description to the upper right sidebar and back button to make it easier for people with poor eyesight.
 - [fix] Fixed an issue where FeedMe mobilizer could not parse pure audio pages correctly.
 - [fix] Fixed an issue where images could not be downloaded under WIFI in some cases.
@@ -647,7 +647,7 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 
 # 3.0
 ###### 2017-3-19
-- Support podcast (not support `Feedbin`) and TTS. Please read <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/podcast_tts.md">Podcast & TTS</a> for the detail.
+- Support podcast (not support `Feedbin`) and TTS. Please read <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/podcast_tts.md">Podcast & TTS</a> for the detail.
 - Provide reading time.
 - Add `Podcast` layout, which show play or download progress.
 - Add `Lab` in `Settings`, including `Hardware Acceleration`.
