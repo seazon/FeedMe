@@ -1,3 +1,9 @@
+### 4.3.10
+###### 2025-3-29
+- [优化] 更新西班牙语。
+- [修复] 修复打开微信公众号链接的web页面失败的问题。 https://github.com/seazon/feedme/issues/8
+- [修复] 解决一些小问题。
+
 ### 4.3.9
 ###### 2025-3-8
 - [优化] 更新中文和德语。 https://github.com/seazon/feedme/issues/639#issuecomment-2609741358

@@ -1,3 +1,9 @@
+### 4.3.10
+###### 2025-3-29
+- [optimize] Update Spanish.
+- [fix] Fix load web failed for WeChat Official Account link. https://github.com/seazon/FeedMe/issues/8
+- [fix] Fix some tiny issues.
+
 ### 4.3.9
 ###### 2025-3-8
 - [optimize] Update Chinese and German. https://github.com/seazon/FeedMe/issues/639#issuecomment-2609741358
