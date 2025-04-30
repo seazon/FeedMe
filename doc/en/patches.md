@@ -1,3 +1,10 @@
+# 4.4.0
+###### 2025-4-30
+- [new] Article list title translation. https://github.com/seazon/FeedMe/issues/9
+- [optimize] Update Spanish/Russian. https://github.com/seazon/FeedMe/issues/2
+- [fix] Fix issue of time-consuming loading of articles. https://github.com/seazon/FeedMe/issues/14
+- [fix] Webp image not show issue. https://github.com/seazon/FeedMe/issues/4
+
 ### 4.3.10
 ###### 2025-3-29
 - [optimize] Update Spanish.

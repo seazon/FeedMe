@@ -1,3 +1,10 @@
+# 4.4.0
+###### 2025-4-30
+- [新增] 文章列表标题翻译。https://github.com/seazon/feedme/issues/9
+- [优化] 更新西班牙语/俄语。https://github.com/seazon/feedme/issues/2
+- [修复] 修复了文章的耗时加载问题。https://github.com/seazon/feedme/issues/14
+- [修复] WebP映像不显示问题。https://github.com/seazon/feedme/issues/4
+
 ### 4.3.10
 ###### 2025-3-29
 - [优化] 更新西班牙语。
