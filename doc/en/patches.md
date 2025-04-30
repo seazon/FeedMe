@@ -1,3 +1,7 @@
+### 4.4.1
+###### 2025-4-30
+- [fix] Fix a crash issue while login.
+
 # 4.4.0
 ###### 2025-4-30
 - [new] Article list title translation. https://github.com/seazon/FeedMe/issues/9
