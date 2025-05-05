@@ -1,3 +1,7 @@
+### 4.4.2
+###### 2025-5-6
+- [fix] Fix TTRSS synchronization failure and crash issues.
+
 ### 4.4.1
 ###### 2025-4-30
 - [fix] Fix a crash issue while login.
