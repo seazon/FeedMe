@@ -1,3 +1,7 @@
+### 4.4.3
+###### 2025-5-6
+- [fix] Fix synchronization failure and crash issues. https://github.com/seazon/FeedMe/issues/20
+
 ### 4.4.2
 ###### 2025-5-6
 - [fix] Fix TTRSS synchronization failure and crash issues. https://github.com/seazon/FeedMe/issues/20
