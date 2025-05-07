@@ -1,3 +1,7 @@
+### 4.4.4
+###### 2025-5-7
+- [修复] 修复Fever同步失败和崩溃的问题。https://github.com/seazon/FeedMe/issues/20
+
 ### 4.4.3
 ###### 2025-5-6
 - [修复] 修复同步失败和崩溃的问题。https://github.com/seazon/FeedMe/issues/20
