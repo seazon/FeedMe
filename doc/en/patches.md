@@ -1,3 +1,7 @@
+### 4.4.6
+###### 2025-5-17
+- [fix] Fix synchronization failure and crash issues. https://github.com/seazon/FeedMe/issues/20
+
 ### 4.4.5
 ###### 2025-5-16
 - [optimize] Provide options for clean cache. https://github.com/seazon/FeedMe/issues/10 https://github.com/seazon/FeedMe/issues/13
