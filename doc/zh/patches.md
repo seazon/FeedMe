@@ -1,3 +1,7 @@
+### 4.4.7
+###### 2025-5-18
+- [修复] 修复GoogleReader和TTRSS同步失败和崩溃的问题。https://github.com/seazon/FeedMe/issues/20
+
 ### 4.4.6
 ###### 2025-5-17
 - [修复] 修复同步失败和崩溃的问题。https://github.com/seazon/FeedMe/issues/20
