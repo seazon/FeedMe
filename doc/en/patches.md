@@ -1,3 +1,8 @@
+### 4.4.8
+###### 2025-6-3
+- [fix] Fix Local RSS synchronization failure issues. https://github.com/seazon/FeedMe/issues/30
+- [fix] Fix crash issues.
+
 ### 4.4.7
 ###### 2025-5-18
 - [fix] Fix GoogleReader and TTRSS synchronization failure and crash issues. https://github.com/seazon/FeedMe/issues/20

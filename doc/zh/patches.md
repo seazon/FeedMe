@@ -1,3 +1,8 @@
+### 4.4.8
+###### 2025-6-3
+- [修复] 修复Local RSS同步失败的问题。https://github.com/seazon/FeedMe/issues/30
+- [修复] 修复崩溃问题。
+
 ### 4.4.7
 ###### 2025-5-18
 - [修复] 修复GoogleReader和TTRSS同步失败和崩溃的问题。https://github.com/seazon/FeedMe/issues/20
