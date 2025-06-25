@@ -1,3 +1,7 @@
+### 4.4.9
+###### 2025-6-25
+- [fix] Fix synchronization interrupted issue.
+
 ### 4.4.8
 ###### 2025-6-3
 - [fix] Fix Local RSS synchronization failure issues. https://github.com/seazon/FeedMe/issues/30

@@ -5,3 +5,4 @@
 | feedbin                                                 | ✅              | ✅                      | ✅         | ❌                 |
 | tiny tiny rss                                           | ✅              | ❌                     | ✅         | ✅                  |
 | fever api                                               | ❌             | ✅                      | ✅         | ❌                 |
+| folo                                                    | ❌             | ❌                      | ✅         | ✅                 |
