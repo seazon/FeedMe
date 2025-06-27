@@ -7,12 +7,13 @@ FeedMe is an reader client application for RSS service:
 - Tiny Tiny RSS
 - FreshRSS
 - Fever
+- Folo
 
 This is the documentation of FeedMe.
 
 ## Version:
 - release: 4.3.10
-- beta: 4.4.9 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+- beta: 4.5.0 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme

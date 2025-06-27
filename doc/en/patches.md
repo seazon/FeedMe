@@ -1,3 +1,9 @@
+# 4.5.0
+###### 2025-6-27
+- [new] Support Folo. https://github.com/seazon/FeedMe/issues/24
+- [new] Support AI summary on article page.
+- [optimize] Article list title translation no need API key/token by default.
+
 ### 4.4.9
 ###### 2025-6-25
 - [fix] Fix synchronization interrupted issue.
