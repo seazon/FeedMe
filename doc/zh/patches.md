@@ -1,3 +1,8 @@
+＃4.5.1
+###### 2025-7-2
+-  [新增] Folo支持订阅和取消订阅。
+-  [优化] Folo支持播客RSS。
+
 # 4.5.0
 ###### 2025-6-27
 -  [新增] 支持Folo。https://github.com/seazon/FeedMe/issues/24

@@ -1,3 +1,8 @@
+# 4.5.1
+###### 2025-7-2
+- [new] Support subscribe and unsubscribe for Folo.
+- [optimize] Support podcast RSS for Folo.
+
 # 4.5.0
 ###### 2025-6-27
 - [new] Support Folo. https://github.com/seazon/FeedMe/issues/24
