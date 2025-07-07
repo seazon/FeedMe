@@ -1,4 +1,12 @@
-# 4.5.1
+### 4.5.2
+###### 2025-7-7
+- [optimize] Show key required hint if no key set while use translator and summary feature.
+- [optimize] Stop call AI summary if text less than 280.
+- [fix] Fix can't switch to feed view on article page.
+- [fix] Fix feed title rename issue.
+- [others] Upgrade 3rd party libraries.
+
+### 4.5.1
 ###### 2025-7-2
 - [new] Support subscribe and unsubscribe for Folo.
 - [optimize] Support podcast RSS for Folo.
