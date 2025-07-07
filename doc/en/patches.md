@@ -4,6 +4,7 @@
 - [optimize] Stop call AI summary if text less than 280.
 - [fix] Fix can't switch to feed view on article page.
 - [fix] Fix feed title rename issue.
+- [fix] Fix link of document.
 - [others] Upgrade 3rd party libraries.
 
 ### 4.5.1
