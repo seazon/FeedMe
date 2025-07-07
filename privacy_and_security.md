@@ -1,3 +1,5 @@
+# Privacy policy
+
 ## Permissions
 
 ##### `android.permission.READ_PHONE_STATE`
