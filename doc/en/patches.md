@@ -1,3 +1,7 @@
+### 4.5.3
+###### 2025-7-9
+- [others] Upgrade 3rd party libraries.
+
 ### 4.5.2
 ###### 2025-7-7
 - [optimize] Show key required hint if no key set while use translator and summary feature.
