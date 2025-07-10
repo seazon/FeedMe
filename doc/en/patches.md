@@ -1,3 +1,7 @@
+### 4.5.4
+###### 2025-7-10
+- [fix] Fix crash issue. https://github.com/seazon/FeedMe/issues/38
+
 ### 4.5.3
 ###### 2025-7-9
 - [others] Upgrade 3rd party libraries.
