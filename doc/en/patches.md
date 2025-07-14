@@ -1,3 +1,10 @@
+### 4.5.5
+###### 2025-7-14
+- [fix] Fix scroll is inaccurate and hide bar on wrong direction issue. https://github.com/seazon/FeedMe/issues/39
+- [fix] Fix some Feedbin APIs not work issue.
+- [fix] Fix Feedbin feed missing category issue.
+- [fix] Fix feed/item incorrect display after log out and re-login.
+
 ### 4.5.4
 ###### 2025-7-10
 - [fix] Fix crash issue. https://github.com/seazon/FeedMe/issues/38
