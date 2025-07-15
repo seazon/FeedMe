@@ -1,3 +1,8 @@
+### 4.5.6
+###### 2025-7-15
+- [fix] Fix Fever auth failed issue.
+- [fix] Fix FeedMe mobilizer return 406 issue. https://github.com/seazon/FeedMe/issues/41 
+
 ### 4.5.5
 ###### 2025-7-14
 - [fix] Fix scroll is inaccurate and hide bar on wrong direction issue. https://github.com/seazon/FeedMe/issues/39

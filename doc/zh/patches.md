@@ -1,6 +1,11 @@
+### 4.5.6
+###### 2025-7-15
+- [修复] 修复使用Fever API登录失败的问题。
+- [修复] 修复FeedMe Mobilizer返回406错误问题。https://github.com/seazon/feedme/issues/41
+
 ### 4.5.5
 ###### 2025-7-14
-- [修复] 修复按键翻页不能准确滚动一页的问题，和错误地在上划时显示动作条的问题。 https://github.com/seazon/feedme/issues/39
+- [修复] 修复按键翻页不能准确滚动一页的问题，和错误地在上划时显示动作条的问题。https://github.com/seazon/feedme/issues/39
 - [修复] 修复了一些Feedbin API不起作用的问题。
 - [修复] 修复Feedbin Feed缺少类别的问题。
 - [修复] 修复登出并重新登录后文章/订阅源显示不正确的问题。
