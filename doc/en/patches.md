@@ -1,3 +1,9 @@
+### 4.5.7
+###### 2025-7-18
+- [fix] Fix Feedly can't star issue. https://github.com/seazon/FeedMe/issues/44
+- [fix] Fix sync related issue of Folo.
+- [fix] Fix crash issue.
+
 ### 4.5.6
 ###### 2025-7-15
 - [fix] Fix Fever auth failed issue.
