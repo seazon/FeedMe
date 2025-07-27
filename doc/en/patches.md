@@ -1,3 +1,7 @@
+### 4.5.8
+###### 2025-7-27
+- [fix] Fix TheOlderReader subscribe API request timeout issue. https://github.com/seazon/FeedMe/issues/50
+
 ### 4.5.7
 ###### 2025-7-18
 - [fix] Fix Feedly can't star issue. https://github.com/seazon/FeedMe/issues/44

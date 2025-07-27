@@ -1,6 +1,10 @@
+### 4.5.8
+###### 2025-7-27
+- [修复] 修复TheOlderReader订阅API请求超时问题。https://github.com/seazon/feedme/issues/50
+
 ### 4.5.7
 ###### 2025-7-18
-- [修复] 修复Feedly不能加星的问题。 https://github.com/seazon/feedme/issues/44
+- [修复] 修复Feedly不能加星的问题。https://github.com/seazon/feedme/issues/44
 - [修复] 修复Folo同步相关的问题。
 - [修复] 修复崩溃问题。
 
