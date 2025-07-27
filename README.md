@@ -8,7 +8,7 @@ FeedMe is an reader client application for RSS services:
   - Bazqux
   - FreshRSS
   - InoReader
-  - The Older Reader
+  - The Old Reader
 
 This is the documentation of FeedMe.
 

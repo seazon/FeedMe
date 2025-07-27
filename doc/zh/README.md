@@ -8,7 +8,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
   - Bazqux
   - FreshRSS
   - InoReader
-  - The Older Reader
+  - The Old Reader
 
 这是FeedMe的使用文档。
 

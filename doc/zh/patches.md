@@ -1,6 +1,6 @@
 ### 4.5.8
 ###### 2025-7-27
-- [修复] 修复TheOlderReader订阅API请求超时问题。https://github.com/seazon/feedme/issues/50
+- [修复] 修复The Old Reader订阅API请求超时问题。https://github.com/seazon/feedme/issues/50
 
 ### 4.5.7
 ###### 2025-7-18

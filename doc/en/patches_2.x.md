@@ -134,7 +134,7 @@ adapter for all activities.
 - Support Hungarian, update Spanish, Portuguese (Brazil), French, Russian, Ukrainian, Japanese.
 - User authentication via OAuth 2.0 for InoReader.
 - Support copy to clipboard menu when long press in article list.
-- Fixed a sync issue of The Older Reader.
+- Fixed a sync issue of The Old Reader.
 
 ###### 2.2.6 2016-3-24
 - Add open source licenses page in setting.
