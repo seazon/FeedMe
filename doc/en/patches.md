@@ -1,3 +1,7 @@
+### 4.5.9
+###### 2025-8-10
+- [fix] Fix sync issue.
+
 ### 4.5.8
 ###### 2025-7-27
 - [fix] Fix The Old Reader subscribe API request timeout issue. https://github.com/seazon/FeedMe/issues/50
