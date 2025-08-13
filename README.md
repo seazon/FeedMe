@@ -30,7 +30,6 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/podcast_tts.md">Podcast & TTS</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/filter.md">Filter</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/customize_menus.md">Customize Menus</a>
-- Feed setting
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/mobilizer.md">Mobilizer and Full Text Download</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/sync.md">Sync</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/storage_and_cache.md">Storage and Cache</a>
