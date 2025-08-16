@@ -1,7 +1,7 @@
 ### 4.5.10
 ###### 2025-8-16
-- [fix] Fix Fever sync issue.
-- [fix] Re-supported chips for armeabi-v7a.
+- [fix] Fix Fever sync issue. https://github.com/seazon/FeedMe/issues/53
+- [fix] Re-supported chips for armeabi-v7a. https://github.com/seazon/FeedMe/issues/54
 - [fix] Fix issue with Folo showing feeds with blank title.
 - [fix] Fix issue that system tags were not hidden.
 - [others] Remove Pocket.

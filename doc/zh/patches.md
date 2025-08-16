@@ -1,7 +1,7 @@
 ### 4.5.10
 ###### 2025-8-16
-- [修复] 修复Fever API同步问题。
-- [修复] 重新支持Armeabi-V7A的芯片。
+- [修复] 修复Fever API同步问题。https://github.com/seazon/FeedMe/issues/53
+- [修复] 重新支持Armeabi-V7A的芯片。https://github.com/seazon/FeedMe/issues/54
 - [修复] 修复Folo显示带有空白标题的问题。
 - [修复] 修复系统标签没有隐藏的问题。
 - [其他] 移除Pocket。
