@@ -1,3 +1,11 @@
+### 4.5.10
+###### 2025-8-16
+- [fix] Fix Fever sync issue.
+- [fix] Re-supported chips for armeabi-v7a.
+- [fix] Fix issue with Folo showing feeds with blank title.
+- [fix] Fix issue that system tags were not hidden.
+- [others] Remove Pocket.
+
 ### 4.5.9
 ###### 2025-8-10
 - [fix] Fix sync issue.
