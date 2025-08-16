@@ -2,6 +2,8 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 - Feedbin
 - Feedly
 - Fever API
+  - CommaFeed
+  - Miniflux
 - Folo
 - Tiny Tiny RSS
 - Google Reader API

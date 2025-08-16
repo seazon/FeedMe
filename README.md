@@ -2,6 +2,8 @@ FeedMe is an reader client application for RSS services:
 - Feedbin
 - Feedly
 - Fever API
+  - CommaFeed
+  - Miniflux
 - Folo
 - Tiny Tiny RSS
 - Google Reader API
