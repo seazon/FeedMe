@@ -1,3 +1,11 @@
+### 4.5.11
+###### 2025-8-22
+- [优化] 添加Folo Star和Unstar API。https://github.com/seazon/feedme/issues/59
+- [优化] AI摘要可以单独为订阅源或者类别设置了。https://github.com/seazon/feedme/issues/35
+- [优化] 本地RSS的最大订阅数量增加到1000。
+- [修复] 修复丢失在同步后保持未读状态。https://github.com/seazon/feedme/issues/61
+- [修复] 修复自动切换到黑暗模式无效的问题。https://github.com/seazon/feedme/issues/57 https://github.com/seazon/feedme/issues/58
+
 ### 4.5.10
 ###### 2025-8-16
 - [修复] 修复Fever API同步问题。https://github.com/seazon/FeedMe/issues/53

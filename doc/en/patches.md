@@ -1,3 +1,11 @@
+### 4.5.11
+###### 2025-8-22
+- [optimize] Add Folo star and unstar API. https://github.com/seazon/FeedMe/issues/59
+- [optimize] AI summary can be set separately for feeds or categories. https://github.com/seazon/FeedMe/issues/35
+- [optimize] Increase the maximum number of subscriptions to 1000 for Local RSS.
+- [fix] Fix lost keep unread state after sync. https://github.com/seazon/FeedMe/issues/61
+- [fix] Fix automatic switching to dark mode not working issue. https://github.com/seazon/FeedMe/issues/57 https://github.com/seazon/FeedMe/issues/58
+
 ### 4.5.10
 ###### 2025-8-16
 - [fix] Fix Fever sync issue. https://github.com/seazon/FeedMe/issues/53
