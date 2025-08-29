@@ -1,3 +1,10 @@
+### 4.5.12
+###### 2025-8-29
+- [fix] Fix Fever API sync issue. https://github.com/seazon/FeedMe/issues/68
+- [optimize] RTL enhancement
+  - If text has any RTL word, show as RTL. https://github.com/seazon/FeedMe/issues/64
+  - Update some icon to support RTL direction, for example play icon. 
+
 ### 4.5.11
 ###### 2025-8-22
 - [optimize] Add Folo star and unstar API. https://github.com/seazon/FeedMe/issues/59
