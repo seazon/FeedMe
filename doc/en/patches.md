@@ -1,9 +1,9 @@
 ### 4.5.12
 ###### 2025-8-29
-- [fix] Fix Fever API sync issue. https://github.com/seazon/FeedMe/issues/68
 - [optimize] RTL enhancement
   - If text has any RTL word, show as RTL. https://github.com/seazon/FeedMe/issues/64
-  - Update some icon to support RTL direction, for example play icon. 
+  - Update some icon to support RTL direction, for example play icon.
+- [fix] Fix Fever API sync issue. https://github.com/seazon/FeedMe/issues/68
 
 ### 4.5.11
 ###### 2025-8-22
