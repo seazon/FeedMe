@@ -41,6 +41,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/shortcut_key.md">快捷键</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/rss_services.md">RSS服务</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/feed_setting.md">订阅源设置</a>
+- <a href="https://github.com/seazon/FeedMe/blob/main/doc/zh/ai_support.md">AI支持</a>
 
 ## <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/qa.md">QA</a>
 

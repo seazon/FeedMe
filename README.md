@@ -41,6 +41,7 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/shortcut_key.md">Shortcut key</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/rss_services.md">RSS Services</a>
 - <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/feed_setting.md">Feed Setting</a>
+- <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/ai_support.md">AI Support</a>
 
 ## <a href="https://github.com/seazon/FeedMe/blob/main/doc/en/qa.md">QA</a>
 
