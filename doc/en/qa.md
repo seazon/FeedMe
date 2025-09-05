@@ -63,3 +63,8 @@ A:You can try to disable `One-Hand Operation` in `Settings` -> `Control`.
 
 ### Q:Will FeedMe consume a lot of traffic?
 A:By default, all automatic network operations will be carried out under wifi network. You can find the related settings in `Settings` -> `Sync` -> `Traffic`.
+
+### Q:Can other RSS services or other AI APIs be supported?
+A:Since I have a full-time job and limited spare time, I don't want to spend too much time adding and maintaining RSS services and AI APIs, so I have the open source project [FeedUs](https://github.com/seazon/FeedUs). FeedMe's RSS / AI feature is coming from here. You can add the new RSS services / AI APIs support and create a PR. I will verify it and merge the code. And then support in FeedMe.
+- RSS service: Implement [RssApi](https://github.com/seazon/FeedUs/blob/main/lib/src/commonMain/kotlin/com/seazon/feedme/lib/rss/service/RssApi.kt) and refer to the completed RSS service implementation in this [directory](https://github.com/seazon/FeedUs/tree/main/lib/src/commonMain/kotlin/com/seazon/feedme/lib/rss/service).
+- AI: Just implement a class similar to [GeminiApi.kt](https://github.com/seazon/FeedUs/blob/main/lib/src/commonMain/kotlin/com/seazon/feedme/lib/ai/gemini/GeminiApi.kt).
