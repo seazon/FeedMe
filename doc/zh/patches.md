@@ -1,9 +1,14 @@
+### 4.5.13
+###### 2025-9-12
+- [优化] 当主题设置为跟随系统时，切换主题能更新小部件的主题。
+- [优化] RTL优化。https://github.com/seazon/FeedMe/issues/64
+
 ### 4.5.12
 ###### 2025-8-29
 - [优化] RTL优化
-  - 如果文本具有任何RTL文字，显示为RTL。 https://github.com/seazon/feedme/issues/64
+  - 如果文本具有任何RTL文字，显示为RTL。https://github.com/seazon/feedme/issues/64
   - 更新一些图标以支持RTL方向，例如播放图标。
-- [修复]修复发烧API同步问题。 https://github.com/seazon/feedme/issues/68
+- [修复]修复发烧API同步问题。https://github.com/seazon/feedme/issues/68
 
 ### 4.5.11
 ###### 2025-8-22

@@ -1,3 +1,8 @@
+### 4.5.13
+###### 2025-9-12
+- [optimize] Switching themes can update the widget's theme when the theme is set to follow system.
+- [optimize] RTL enhancement. https://github.com/seazon/FeedMe/issues/64
+
 ### 4.5.12
 ###### 2025-8-29
 - [optimize] RTL enhancement
