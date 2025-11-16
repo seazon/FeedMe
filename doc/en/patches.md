@@ -1,3 +1,10 @@
+### 4.5.14
+###### 2025-11-16
+- [fix] fix Folo search failed issue.
+- [fix] Fix 3rd party app menu icon not display issue. https://github.com/seazon/FeedMe/issues/81
+- [fix] Fix dropdown menu background issue. https://github.com/seazon/FeedMe/issues/82
+- [fix] Fix some tiny issues.
+
 ### 4.5.13
 ###### 2025-9-12
 - [optimize] Switching themes can update the widget's theme when the theme is set to follow system.
