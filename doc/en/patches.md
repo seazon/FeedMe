@@ -1,3 +1,10 @@
+### 4.5.15
+###### 2025-12-7
+- [optimize] Filter supports category. https://github.com/seazon/FeedMe/issues/87
+- [optimize] Always show refresh list tips when sync done.
+- [fix] Fix InoReader missing some starred items. https://github.com/seazon/FeedMe/issues/93
+- [fix] Fix 3rd party app menu icon not display issue. https://github.com/seazon/FeedMe/issues/81
+
 ### 4.5.14
 ###### 2025-11-16
 - [fix] fix Folo search failed issue.

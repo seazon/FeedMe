@@ -1,3 +1,10 @@
+### 4.5.15
+###### 2025-12-7
+- [优化] 支持通过类别过滤。https://github.com/seazon/FeedMe/issues/87
+- [优化] 同步完成后始终显示刷新列表提示。
+- [修复] 修复 InoReader 无法获取一些加星文章的问题。 https://github.com/seazon/FeedMe/issues/93
+- [修复] 修复第3方应用菜单图标不显示的问题。https://github.com/seazon/FeedMe/issues/81
+
 ### 4.5.14
 ###### 2025-11-16
 - [修复] 修复Folo搜索失败的问题。
