@@ -16,7 +16,7 @@ This is the documentation of FeedMe.
 
 ## Version:
 - release: 4.5.14
-- beta: 4.5.15 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+- beta: 4.5.16 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme

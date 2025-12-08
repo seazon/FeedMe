@@ -1,3 +1,8 @@
+### 4.5.16
+###### 2025-12-8
+- [optimize] Highlighter supports alphabetical sorting. https://github.com/seazon/FeedMe/issues/94
+- [fix] Fix Gemini API not work issue. https://github.com/seazon/FeedMe/issues/96
+
 ### 4.5.15
 ###### 2025-12-7
 - [optimize] Filter supports category. https://github.com/seazon/FeedMe/issues/87

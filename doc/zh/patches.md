@@ -1,3 +1,8 @@
+### 4.5.16
+###### 2025-12-8
+- [优化] 荧光笔支持字母排序。https://github.com/seazon/FeedMe/issues/94
+- [修复] 修复Gemini API无法工作的问题。https://github.com/seazon/FeedMe/issues/96
+
 ### 4.5.15
 ###### 2025-12-7
 - [优化] 支持通过类别过滤。https://github.com/seazon/FeedMe/issues/87
