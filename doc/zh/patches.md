@@ -1,3 +1,12 @@
+# 4.6.0
+###### 2026-1-3
+- [新增] 在导航栏显示标签列表。https://github.com/seazon/FeedMe/issues/71#issuecomment-3707037852
+- [优化] 增加触发单个AI摘要的按钮。https://github.com/seazon/FeedMe/issues/109
+- [优化] 增加显示刷新提示的选项。https://github.com/seazon/FeedMe/issues/110
+- [优化] 自定义分享模板也适用于第三方应用。https://github.com/seazon/FeedMe/issues/100
+- [修复] 修复 Folo 订阅失败的问题。
+- [修复] 修复日期解析问题。https://github.com/seazon/FeedMe/issues/97
+
 ### 4.5.16
 ###### 2025-12-8
 - [优化] 荧光笔支持字母排序。https://github.com/seazon/FeedMe/issues/94

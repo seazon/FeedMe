@@ -1,3 +1,12 @@
+# 4.6.0
+###### 2026-1-3
+- [new] Show tag list in nav side. https://github.com/seazon/FeedMe/issues/71#issuecomment-3707037852
+- [optimize] Add a button to trigger single AI summary. https://github.com/seazon/FeedMe/issues/109
+- [optimize] Option for show refresh tips. https://github.com/seazon/FeedMe/issues/110
+- [optimize] Custom share template also apply to 3rd party app. https://github.com/seazon/FeedMe/issues/100
+- [fix] Fix Folo subscribe failed issue.
+- [fix] Fix date parse issue. https://github.com/seazon/FeedMe/issues/97
+
 ### 4.5.16
 ###### 2025-12-8
 - [optimize] Highlighter supports alphabetical sorting. https://github.com/seazon/FeedMe/issues/94
