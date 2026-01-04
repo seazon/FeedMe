@@ -1,3 +1,9 @@
+### 4.6.1
+###### 2026-1-4
+- [修复] 如果未设置AI Summary的API key，隐藏文章页面中的`AI summary`。https://github.com/seazon/FeedMe/issues/109#issuecomment-3707562538
+- [修复] 当显示标签的文章列表时，隐藏`订阅设置`菜单。
+- [修复] 修复再次打开加载过AI summary的文章不显示AI summary的问题。
+
 # 4.6.0
 ###### 2026-1-3
 - [新增] 在导航栏显示标签列表。https://github.com/seazon/FeedMe/issues/71#issuecomment-3707037852

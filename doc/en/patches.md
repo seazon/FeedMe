@@ -1,3 +1,9 @@
+### 4.6.1
+###### 2026-1-4
+- [fix] Hide `AI summary` layout in article page if key not set.
+- [fix] Hide `Feed Setting` menu in article list page for tag's article list.
+- [fix] Fixed the problem of not displaying the AI summary after opening it again.
+
 # 4.6.0
 ###### 2026-1-3
 - [new] Show tag list in nav side. https://github.com/seazon/FeedMe/issues/71#issuecomment-3707037852
