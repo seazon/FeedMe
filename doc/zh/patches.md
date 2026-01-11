@@ -1,3 +1,7 @@
+### 4.6.2
+###### 2026-1-11
+- [其他] 修改`应用内支付`页面并添加订阅付款类型。https://github.com/seazon/FeedMe/issues/115
+
 ### 4.6.1
 ###### 2026-1-4
 - [修复] 如果未设置AI Summary的API key，隐藏文章页面中的`AI summary`。https://github.com/seazon/FeedMe/issues/109#issuecomment-3707562538

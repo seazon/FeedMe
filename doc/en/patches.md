@@ -1,3 +1,7 @@
+### 4.6.2
+###### 2026-1-11
+- [other] Revamp `In-app Billing` page and add subscription payment type. https://github.com/seazon/FeedMe/issues/115
+
 ### 4.6.1
 ###### 2026-1-4
 - [fix] Hide `AI summary` layout in article page if key not set. https://github.com/seazon/FeedMe/issues/109#issuecomment-3707562538
