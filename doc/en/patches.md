@@ -1,3 +1,13 @@
+### 4.6.3
+###### 2026-1-25
+- [optimize] Article list and player widget improvement. https://github.com/seazon/FeedMe/issues/120
+  - New option(`Settings`-`Custom`-`Dynamic Color`) to enable material you dynamic color, support Android 12+.
+  - Fix image not show issue.
+  - Fix article item not show issue.
+- [optimize] Improve embedded X content. https://github.com/seazon/FeedMe/issues/119
+- [optimize] Update Chinese.
+- [fix] Fix some crash and tiny issues.
+
 ### 4.6.2
 ###### 2026-1-11
 - [other] Revamp `In-app Billing` page and add subscription payment type. https://github.com/seazon/FeedMe/issues/115

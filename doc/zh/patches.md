@@ -1,3 +1,13 @@
+### 4.6.3
+###### 2026-1-25
+- [优化] 文章列表和播放器小部件改进。 https://github.com/seazon/FeedMe/issues/120
+  - 新选项（`设置`-`个性化`-`动态配色`）可启用Material You动态配色，支持 Android 12+。
+  - 修复图片不显示的问题。
+  - 修复文章项目不显示的问题。
+- [优化] 改进嵌入的X内容。 https://github.com/seazon/FeedMe/issues/119
+- [优化] 更新中文。
+- [修复] 修复一些崩溃和小问题。
+
 ### 4.6.2
 ###### 2026-1-11
 - [其他] 修改`应用内支付`页面并添加订阅付款类型。https://github.com/seazon/FeedMe/issues/115
