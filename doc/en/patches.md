@@ -1,3 +1,14 @@
+### 4.6.4
+###### 2026-2-2
+- [optimize] AI configuration improvement, need reset it. https://github.com/seazon/FeedMe/issues/127
+  - Merge the configuration of AI translation and summary.
+  - Support model selection.
+  - Support Volcano Ark.
+- [optimize] Add free trial tips for In-App Purchases.
+- [fix] Fix In-App Purchases page crash issue for free user.
+- [fix] RTL Text direction not correct on AI summary card. https://github.com/seazon/FeedMe/issues/64#issuecomment-3298471826
+- [fix] Fix xml parser charset issue. https://github.com/seazon/FeedMe/issues/124
+
 ### 4.6.3
 ###### 2026-1-25
 - [optimize] Article list and player widget improvement. https://github.com/seazon/FeedMe/issues/120

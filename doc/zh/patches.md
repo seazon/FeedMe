@@ -1,3 +1,14 @@
+### 4.6.4
+###### 2026-2-2
+- [优化] AI设置改进，需要重新设置。https://github.com/seazon/FeedMe/issues/127
+  - 合并AI翻译和摘要的设置。
+  - 支持模型选择。
+  - 支持火山方舟。
+- [优化] 添加内购免费试用提示。
+- [修复] 修复免费用户的应用内购买页面崩溃的问题。
+- [修复] 修复AI总结在RTL语言中文本方向不正确的问题。https://github.com/seazon/FeedMe/issues/64#issuecomment-3298471826
+- [修复] 修复RSS解析字符集错误的问题。https://github.com/seazon/FeedMe/issues/124
+
 ### 4.6.3
 ###### 2026-1-25
 - [优化] 文章列表和播放器小部件改进。 https://github.com/seazon/FeedMe/issues/120
