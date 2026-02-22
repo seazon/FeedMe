@@ -1,8 +1,8 @@
 # 4.7.0
 ###### 2026-2-22
-- [新增] 改进探索页面。
+- [新增] 改进探索页面。https://github.com/seazon/FeedMe/issues/131
   - 智能检测
-- [新增] 新小部件：文章大图。
+- [新增] 新小部件：文章大图。https://github.com/seazon/FeedMe/issues/131
 - [优化] 调整小部件背景。https://github.com/seazon/FeedMe/issues/120
 
 ### 4.6.4

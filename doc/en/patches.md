@@ -1,8 +1,8 @@
 # 4.7.0
 ###### 2026-2-22
-- [new] Revamp explore page.
+- [new] Revamp explore page. https://github.com/seazon/FeedMe/issues/131
   - Smart detect
-- [new] New widget: article vision.
+- [new] New widget: article vision. https://github.com/seazon/FeedMe/issues/131
 - [optimize] Adjust widget background. https://github.com/seazon/FeedMe/issues/120
 
 ### 4.6.4
