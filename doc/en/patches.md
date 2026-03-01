@@ -1,3 +1,12 @@
+### 4.7.1
+###### 2026-3-1
+- [optimize] Optimize prompt. https://github.com/seazon/FeedMe/issues/127
+- [optimize] Apply smart detect for local rss.
+- [optimize] Add new host for Mastodon.
+- [optimize] Show new emoji for subscribed user
+- [fix] Fix paid feature still lock if only purchase grape.
+- [fix] Fix text input field style.
+
 # 4.7.0
 ###### 2026-2-22
 - [new] Revamp explore page. https://github.com/seazon/FeedMe/issues/131
