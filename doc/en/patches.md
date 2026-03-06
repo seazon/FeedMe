@@ -1,3 +1,11 @@
+# 4.8.0
+###### 2026-3-6
+- [new] New options for AI: GLM and Custom.
+- [new] Custom prompt for AI.
+- [new] Support save to Karakeep.
+- [fix] Fix some crash and tiny issues.
+- [other] New fruit: Kiwi, which can unload Custom AI and Custom prompt.
+
 ### 4.7.1
 ###### 2026-3-1
 - [optimize] Optimize prompt. https://github.com/seazon/FeedMe/issues/127
