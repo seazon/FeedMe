@@ -1,3 +1,8 @@
+### 4.8.1
+###### 2026-3-9
+- [fix] Should not open IAB dialog when save non-custom AI.
+- [fix] Fixed trigger error of sync when launch.
+
 # 4.8.0
 ###### 2026-3-6
 - [new] New options for AI: GLM and Custom.
