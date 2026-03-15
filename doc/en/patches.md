@@ -1,3 +1,9 @@
+### 4.8.2
+###### 2026-3-15
+- [optimize] Support QWen, MiniMax, OpenAI.
+- [optimize] AI model supports fill in manually.
+- [optimize] New article layout: Video.
+
 ### 4.8.1
 ###### 2026-3-9
 - [fix] Should not open IAB dialog when save non-custom AI.
