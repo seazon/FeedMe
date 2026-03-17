@@ -60,7 +60,11 @@ This is the documentation of FeedMe.
 ## <a href="https://github.com/seazon/FeedMe/blob/main/privacy_and_security.md">Privacy and Security</a>
 
 ## Translation
-FeedMe manager translation at https://crowdin.com/project/feedme, if you like FeedMe and want to localize it, please join the project and leave a comment at https://github.com/seazon/FeedMe/issues/2.
+FeedMe manager translation at Crowdin, if you like FeedMe and want to localize it, please join the project and leave a comment at https://github.com/seazon/FeedMe/issues/2.
+
+Since there are many languages, it was split into 2 projects.
+- https://crowdin.com/project/feedme
+- https://crowdin.com/project/feedme-1
 
 ## Sponsor
 - Sponsor does not gain anything, it is just to encourage the author to continue development.
