@@ -1,3 +1,13 @@
+### 4.8.3
+###### 2026-3-21
+- [优化] 更新德语。
+- [优化] 调整未解锁小部件功能时的显示。
+- [优化] 更新应用内支付相关的说明文字。
+- [优化] 调整默认主题为`跟随系统`。
+- [修复] 修复同步加星异常的问题。https://github.com/seazon/FeedMe/issues/135
+- [修复] 修复Folo不能同步加星文章的问题。
+- [修复] AI配置对话框`base url`改为`url`。
+
 ### 4.8.2
 ###### 2026-3-15
 - [优化] 支持QWen、MiniMax、OpenAI。
@@ -70,7 +80,7 @@
 - [优化] 增加触发单个AI摘要的按钮。https://github.com/seazon/FeedMe/issues/109
 - [优化] 增加显示刷新提示的选项。https://github.com/seazon/FeedMe/issues/110
 - [优化] 自定义分享模板也适用于第三方应用。https://github.com/seazon/FeedMe/issues/100
-- [修复] 修复 Folo 订阅失败的问题。
+- [修复] 修复Folo订阅失败的问题。
 - [修复] 修复日期解析问题。https://github.com/seazon/FeedMe/issues/97
 
 ### 4.5.16

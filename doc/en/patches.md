@@ -1,3 +1,13 @@
+### 4.8.3
+###### 2026-3-21
+- [optimize] Updated German language.
+- [optimize] Adjust the display when the widget function is locked.
+- [optimize] Update the description text related to in-app payment.
+- [optimize] Adjust the default theme to `Follow the system`.
+- [Fix] Fixed the problem of abnormal synchronization of stars. https://github.com/seazon/FeedMe/issues/135
+- [Fix] Fixed the issue where Folo cannot synchronize starred articles.
+- [Fix] The `base url` in the AI configuration dialog is changed to `url`.
+
 ### 4.8.2
 ###### 2026-3-15
 - [optimize] Support QWen, MiniMax, OpenAI.
