@@ -1,3 +1,12 @@
+### 4.8.4
+###### 2026-3-29
+- [优化] 加载更合适的Favicon。https://github.com/seazon/FeedMe/issues/134
+- [优化] AI配置对话框添加`测试`按钮。https://github.com/seazon/FeedMe/issues/141
+- [修复] 修复NAV数量没有更新的问题。https://github.com/seazon/FeedMe/issues/142
+- [修复] 修复AI类型无法更改的问题。https://github.com/seazon/FeedMe/issues/144
+- [修复] 修复某些情况下无法下载图片的问题。
+- [修复] 修复一些崩溃和小问题。
+
 ### 4.8.3
 ###### 2026-3-21
 - [优化] 更新德语。

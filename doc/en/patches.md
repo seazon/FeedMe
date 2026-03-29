@@ -1,11 +1,20 @@
+### 4.8.4
+###### 2026-3-29
+- [optimize] Load a more appropriate favicon. https://github.com/seazon/FeedMe/issues/134
+- [optimize] Add test button for AI configuration dialog. https://github.com/seazon/FeedMe/issues/141
+- [fix] Fix NAV side count can't update issue. https://github.com/seazon/FeedMe/issues/142
+- [fix] Fix AI type can't change issue. https://github.com/seazon/FeedMe/issues/144
+- [fix] Fix the issue of failure to download images in some cases.
+- [fix] Fix some crash and tiny issues.
+
 ### 4.8.3
 ###### 2026-3-21
 - [optimize] Updated German language.
 - [optimize] Adjust the display when the widget function is locked.
 - [optimize] Update the description text related to in-app payment.
 - [optimize] Adjust the default theme to `Follow the system`.
-- [Fix] Fixed the problem of abnormal synchronization of stars. https://github.com/seazon/FeedMe/issues/135
-- [Fix] Fixed the issue where Folo cannot synchronize starred articles.
+- [Fix] Fix the problem of abnormal synchronization of stars. https://github.com/seazon/FeedMe/issues/135
+- [Fix] Fix the issue where Folo cannot synchronize starred articles.
 - [Fix] The `base url` in the AI configuration dialog is changed to `url`.
 
 ### 4.8.2
@@ -17,7 +26,7 @@
 ### 4.8.1
 ###### 2026-3-9
 - [fix] Should not open IAB dialog when save non-custom AI.
-- [fix] Fixed trigger error of sync when launch.
+- [fix] Fix trigger error of sync when launch.
 
 # 4.8.0
 ###### 2026-3-6
@@ -97,7 +106,7 @@
 
 ### 4.5.14
 ###### 2025-11-16
-- [fix] fix Folo search failed issue.
+- [fix] Fix Folo search failed issue.
 - [fix] Fix 3rd party app menu icon not display issue. https://github.com/seazon/FeedMe/issues/81
 - [fix] Fix dropdown menu background issue. https://github.com/seazon/FeedMe/issues/82
 - [fix] Fix some tiny issues.
