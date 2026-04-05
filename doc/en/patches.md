@@ -1,3 +1,9 @@
+### 4.8.5
+###### 2026-4-6
+- [optimize] update Dutch.
+- [fix] Fix sync timeout issue of Folo.
+- [fix] Fix crash issue while fetch favicon.
+
 ### 4.8.4
 ###### 2026-3-29
 - [optimize] Load a more appropriate favicon. https://github.com/seazon/FeedMe/issues/134
