@@ -1,3 +1,8 @@
+### 4.8.6
+###### 2026-4-17
+- [fix] Fixed an issue where some feeds were marked as sync disabled but still continued to sync. https://github.com/seazon/FeedMe/issues/136
+- [fix] Fixed unread fetch count overcounting issue.
+
 ### 4.8.5
 ###### 2026-4-6
 - [optimize] update Dutch.
