@@ -1,3 +1,33 @@
+# 4.9.0
+###### 2026-5-5
+- Sidebar Changes
+  - [new] Added view filter bar in the sidebar (premium unlock required). No filter by default, displays all content. https://github.com/seazon/FeedMe/issues/117
+  - [new] Added Custom Navigation Items under `Settings` - `Interface`, allowing you to hide certain sidebar items: `Playlist`, `Tags`, `Highlighter`, `View Filter Bar`. https://github.com/seazon/FeedMe/issues/113
+- Article List
+  - [optimize] Updated layout naming:
+    - `Article`: Use for text-dominant content; legacy equivalent: `List`.
+    - `Social`: Use for social media content (usually no title); legacy equivalent: `Twitter`.
+    - `Audio`: Use for podcast content, with buttons for download, add to playlist and play; legacy equivalent: `Podcast`.
+    - `Image`: Use for image-focused content; legacy equivalent: `Visual`.
+    - `Video`: Use for video-focused content; legacy equivalent: `Video`.
+    - `Notification`: For frequently updated feeds or quick title browsing; legacy equivalent: `Minimal`.
+  - [optimize] Removed the `Card` layout.
+  - [optimize] Improved image display in article list. More images can now be shown, and list images will also display correctly when entering the article detail page.
+  - [fix] Fixed display issue of the download button in podcast layout.
+- AI
+  - [new] Added AI Summary for article list to summarize current feed contents. Only summarizes the first 50 articles when there are more than 50 entries.
+  - [optimize] Set `enable_thinking=false` in AI API settings.
+- Feed Management
+  - [new] Added sourcefeed support for smart feed detection.
+  - [optimize] Added layout settings on add/edit feed page; uses article layout by default, multi-select for categories is no longer supported.
+  - [fix] Enabled feed editing for Folo, and fixed incorrect feedId parameter when editing Folo subscriptions. https://github.com/seazon/FeedMe/issues/152
+  - [fix] Fixed URL parameter loss when opening Explore page after adding a subscription from feed source. https://github.com/seazon/FeedMe/issues/152
+- In-App Purchase
+  - [new] Add `Orange` to unlock the view filter feature.
+  - [optimize] Redesigned and optimized the in-app purchase UI.
+- [optimize] Unified UI style for partial bottom sheet dialog.
+- [others] Refactored code for article list, feed management page, and feed add/edit interface.
+
 ### 4.8.6
 ###### 2026-4-17
 - [fix] Fixed an issue where some feeds were marked as sync disabled but still continued to sync. https://github.com/seazon/FeedMe/issues/136
