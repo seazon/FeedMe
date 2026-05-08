@@ -1,8 +1,16 @@
+# 4.9.1
+###### 2026-5-8
+- [fix] Fixed the issue where marking read will return to top. https://github.com/seazon/FeedMe/issues/160
+- [fix] Fixed the problem that the next node cannot be displayed when marking all read. https://github.com/seazon/FeedMe/issues/161
+- [fix] Stop translate title which is empty.
+- [fix] Fix some tiny issues.
+
 # 4.9.0
 ###### 2026-5-5
 - Sidebar Changes
-  - [new] Added view filter bar in the sidebar (premium unlock required). No filter by default, displays all content. https://github.com/seazon/FeedMe/issues/117
+  - [new] Added view filter bar in the sidebar (purchase to unlock: `Orange`). No filter by default, displays all content. https://github.com/seazon/FeedMe/issues/117
   - [new] Added Custom Navigation Items under `Settings` - `Interface`, allowing you to hide certain sidebar items: `Playlist`, `Tags`, `Highlighter`, `View Filter Bar`. https://github.com/seazon/FeedMe/issues/113
+  - [new] Long press the feed in the sidebar to set it directly.
 - Article List
   - [optimize] Updated layout naming:
     - `Article`: Use for text-dominant content; legacy equivalent: `List`.
@@ -15,7 +23,7 @@
   - [optimize] Improved image display in article list. More images can now be shown, and list images will also display correctly when entering the article detail page.
   - [fix] Fixed display issue of the download button in podcast layout.
 - AI
-  - [new] Added AI Summary for article list to summarize current feed contents. Only summarizes the first 50 articles when there are more than 50 entries.
+  - [new] Added AI Summary for article list to summarize current feed contents (purchase to unlock: `Kiwi`). Only summarizes the first 50 articles when there are more than 50 entries.
   - [optimize] Set `enable_thinking=false` in AI API settings.
 - Feed Management
   - [new] Added sourcefeed support for smart feed detection.
