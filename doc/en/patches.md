@@ -1,7 +1,12 @@
+# 4.9.2
+###### 2026-5-13
+- [optimize] Update Simplified Chinese.
+- [fix] Fix Gemini API call failed error for preview model. https://github.com/seazon/FeedMe/issues/165
+
 # 4.9.1
 ###### 2026-5-8
-- [fix] Fixed the issue where marking read will return to top. https://github.com/seazon/FeedMe/issues/160
-- [fix] Fixed the problem that the next node cannot be displayed when marking all read. https://github.com/seazon/FeedMe/issues/161
+- [fix] Fix the issue where marking read will return to top. https://github.com/seazon/FeedMe/issues/160
+- [fix] Fix the issue that the next node cannot be displayed when marking all read. https://github.com/seazon/FeedMe/issues/161
 - [fix] Stop translate title which is empty.
 - [fix] Fix some tiny issues.
 

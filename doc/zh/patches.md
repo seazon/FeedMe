@@ -1,3 +1,8 @@
+# 4.9.2
+###### 2026-5-13
+- [优化] 更新简体中文。
+- [修复] 修复 Gemini API 的预览模型调用失败的问题。https://github.com/seazon/FeedMe/issues/165
+
 # 4.9.1
 ###### 2026-5-8
 - [修复] 修复标记已读会回到列表顶部的问题。https://github.com/seazon/FeedMe/issues/160
