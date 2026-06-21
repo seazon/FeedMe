@@ -1,9 +1,13 @@
-# 4.9.2
+### 4.9.3
+###### 2026-6-21
+- [fix] Fix TTRSS API error. https://github.com/seazon/FeedMe/issues/177
+
+### 4.9.2
 ###### 2026-5-13
 - [optimize] Update Simplified Chinese.
 - [fix] Fix Gemini API call failed error for preview model. https://github.com/seazon/FeedMe/issues/165
 
-# 4.9.1
+### 4.9.1
 ###### 2026-5-8
 - [fix] Fix the issue where marking read will return to top. https://github.com/seazon/FeedMe/issues/160
 - [fix] Fix the issue that the next node cannot be displayed when marking all read. https://github.com/seazon/FeedMe/issues/161
