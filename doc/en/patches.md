@@ -1,3 +1,7 @@
+### 4.9.4
+###### 2026-6-29
+- [fix] Fix show next feed not working issue. https://github.com/seazon/FeedMe/issues/161
+
 ### 4.9.3
 ###### 2026-6-21
 - [fix] Fix TTRSS API error. https://github.com/seazon/FeedMe/issues/177

@@ -1,6 +1,10 @@
+### 4.9.4
+###### 2026-6-29
+- [修复] 修复显示下一个订阅源无效的问题。https://github.com/seazon/FeedMe/issues/161
+
 ### 4.9.3
 ###### 2026-6-21
-- [修复] 修复 TTRSS API 的问题。 https://github.com/seazon/FeedMe/issues/177
+- [修复] 修复 TTRSS API 的问题。https://github.com/seazon/FeedMe/issues/177
 
 ### 4.9.2
 ###### 2026-5-13
