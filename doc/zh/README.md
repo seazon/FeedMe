@@ -14,14 +14,12 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 
 这是FeedMe的使用文档。
 
-## 版本:
-- 谷歌商店正式: 4.8.6
-- 谷歌商店测试: 4.9.3 (加入beta测试: https://play.google.com/apps/testing/com.seazon.feedme)
-- Github: 4.9.5
-
-## 下载:
-- https://play.google.com/store/apps/details?id=com.seazon.feedme
-- <a href="https://github.com/seazon/FeedMe/releases">下载</a>
+## 版本和下载:
+- 谷歌商店 https://play.google.com/store/apps/details?id=com.seazon.feedme
+  - 正式: 4.8.6
+  - 测试: 4.9.3 (加入beta测试: https://play.google.com/apps/testing/com.seazon.feedme)
+- Github https://github.com/seazon/FeedMe/releases
+  - 4.9.5
 
 ## 联系:
 - （推荐）https://github.com/seazon/FeedMe/issues
