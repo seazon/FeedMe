@@ -1,7 +1,7 @@
 ### 4.9.5
 ###### 2026-7-2
-- [important‼️] 重写文章列表和文章详情页代码，如果发现已有功能不能正常工作，请及时反馈，会第一时间进行修复。
-- [new] 在文章列表的查看对话框中增加内边距设置。
+- [important‼️] Rewrite the code for the article list and article details page. If you find that existing functions are not working properly, please provide feedback in time and I will fix it ASAP. https://github.com/seazon/FeedMe/issues/180
+- [new] Add padding settings in the view dialog of the article list.
 
 ### 4.9.4
 ###### 2026-6-29
