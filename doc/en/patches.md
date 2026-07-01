@@ -1,3 +1,8 @@
+### 4.9.5
+###### 2026-7-2
+- [important‼️] 重写文章列表和文章详情页代码，如果发现已有功能不能正常工作，请及时反馈，会第一时间进行修复。
+- [new] 在文章列表的查看对话框中增加内边距设置。
+
 ### 4.9.4
 ###### 2026-6-29
 - [fix] Fix show next feed not working issue. https://github.com/seazon/FeedMe/issues/161
