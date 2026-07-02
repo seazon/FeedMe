@@ -1,3 +1,10 @@
+### 4.9.6
+###### 2026-7-3
+- [fix] 修复在开启`自动标记已读`的情况下，滑动到底部快速闪烁的问题。https://github.com/seazon/FeedMe/issues/160#issuecomment-4866625955
+- [fix] 修复`界面`-`布局`不起作用的问题。https://github.com/seazon/FeedMe/issues/181#issuecomment-4863699955
+- [fix] 修复FAB的位置，并且还原了形状和颜色。https://github.com/seazon/FeedMe/issues/182
+- [fix] 在文章详情页的标题栏显示计数。https://github.com/seazon/FeedMe/issues/184
+
 ### 4.9.5
 ###### 2026-7-2
 - [重要‼️] 重写文章列表和文章详情页代码，如果发现已有功能不能正常工作，请及时反馈，会第一时间进行修复。https://github.com/seazon/FeedMe/issues/180
