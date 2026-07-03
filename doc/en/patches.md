@@ -1,8 +1,14 @@
+### 4.9.7
+###### 2026-7-3
+- [fix] Fixed an issue where the wrong article would open. https://github.com/seazon/FeedMe/issues/160#issuecomment-4861429918
+- [fix] Fixed an issue where the article list did not remember the scroll position. https://github.com/seazon/FeedMe/issues/180#issuecomment-4872091347
+- [fix] Fixed some minor issues.
+
 ### 4.9.6
 ###### 2026-7-3
-- [fix] Fix the problem of rapid flashing when sliding to the bottom when `auto mark read` is turned on. https://github.com/seazon/FeedMe/issues/160#issuecomment-4866625955
-- [fix] Fix the problem that `Interface`-`Layout` does not work. https://github.com/seazon/FeedMe/issues/181#issuecomment-4863699955
-- [fix] Fix FAB position, and restored shape and color. https://github.com/seazon/FeedMe/issues/182
+- [fix] Fixed the problem of rapid flashing when sliding to the bottom when `auto mark read` is turned on. https://github.com/seazon/FeedMe/issues/160#issuecomment-4866625955
+- [fix] Fixed the problem that `Interface`-`Layout` does not work. https://github.com/seazon/FeedMe/issues/181#issuecomment-4863699955
+- [fix] Fixed FAB position, and restored shape and color. https://github.com/seazon/FeedMe/issues/182
 - [fix] Display the count in the title bar of the article details page. https://github.com/seazon/FeedMe/issues/184
 
 ### 4.9.5

@@ -19,7 +19,7 @@ This is the documentation of FeedMe.
   - release: 4.8.6
   - beta: 4.9.3 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 - Github https://github.com/seazon/FeedMe/releases
-  - 4.9.6
+  - 4.9.7
 
 ## Contact:
 - (Recommendation) https://github.com/seazon/FeedMe/issues
