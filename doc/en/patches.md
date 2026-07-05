@@ -1,3 +1,13 @@
+### 4.9.8
+###### 2026-7-5
+- [Optimization] Removed the behavior where the first item in the article list is selected by default.
+- [Fix] Fixed an issue where widget images failed to display in certain scenarios. https://github.com/seazon/FeedMe/issues/137
+- [Fix] Fixed an issue where clicking an article in the widget failed to open it under certain circumstances. https://github.com/seazon/FeedMe/issues/128
+- [Fix] Fixed an issue where the UI did not refresh synchronously after marking as read.
+- [Fix] Fixed an issue where menu functions were unresponsive (e.g., AI summary in article list, page navigation).
+- [Fix] Fixed an issue where the article page did not refresh after switching to dark mode.
+- [Fix] Fixed several minor UI and interaction issues.
+
 ### 4.9.7
 ###### 2026-7-3
 - [fix] Fixed an issue where the wrong article would open. https://github.com/seazon/FeedMe/issues/160#issuecomment-4861429918

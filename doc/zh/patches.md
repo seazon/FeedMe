@@ -1,3 +1,13 @@
+### 4.9.8
+###### 2026-7-5
+- [优化] 取消文章列表默认选中第一项的行为。
+- [修复] 修复 Widget 图片在特定场景下无法显示的问题。https://github.com/seazon/FeedMe/issues/137
+- [修复] 修复 Widget 点击文章在某些情况下无法打开文章的问题。https://github.com/seazon/FeedMe/issues/128
+- [修复] 修复标记已读后 UI 未同步刷新的问题。
+- [修复] 修复菜单功能失效问题（文章列表 AI 总结、页面导航等）。
+- [修复] 修复深色模式切换后文章页不刷新的问题。
+- [修复] 修复若干 UI 交互细节问题。
+
 ### 4.9.7
 ###### 2026-7-3
 - [修复] 修复打开错误文章的问题。 https://github.com/seazon/FeedMe/issues/160#issuecomment-4861429918
