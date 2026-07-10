@@ -1,3 +1,17 @@
+### 4.9.9
+###### 2026-7-10
+- [Optimization] Optimize the sliding smoothness of the article list.
+- [Optimization] Caching the scroll position of articles. https://github.com/seazon/FeedMe/issues/180#issuecomment-4884672544
+- [Optimization] Social media layout supports links.
+- [Optimization] When sliding the list up and down in the article list, it is now less likely to trigger the left and right sliding of the list items.
+- [Optimization] When the list is empty, you can still pull down to refresh. https://github.com/seazon/FeedMe/issues/180#issuecomment-4887250458
+- [Optimization] Optimize the problem of unclear text when the visual widget has no picture.
+- [Optimization] Other minor UI detail optimizations.
+- [Fix] Sometimes there will be a few things left as read, and there will be no response when clicking to mark them all as read.
+- [Fix] Fixed the issue where marking read did not automatically jump to the next feed.
+- [Fix] The problem that the widget marked as read cannot be updated if it encounters an article that remains unread.
+- [Fix] Fixed the issue where all fluorescent labels in the sidebar are selected.
+
 ### 4.9.8
 ###### 2026-7-5
 - [Optimization] Removed the behavior where the first item in the article list is selected by default.
