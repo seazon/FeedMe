@@ -7,7 +7,7 @@
 - [Optimization] When the list is empty, you can still pull down to refresh. https://github.com/seazon/FeedMe/issues/180#issuecomment-4887250458
 - [Optimization] Optimize the problem of unclear text when the visual widget has no picture.
 - [Optimization] Other minor UI detail optimizations.
-- [Fix] Sometimes there will be a few things left as read, and there will be no response when clicking to mark them all as read.
+- [Fix] Sometimes there will be a few things left as read, and there will be no response when clicking to mark them all as read. https://github.com/seazon/FeedMe/issues/186
 - [Fix] Fixed the issue where marking read did not automatically jump to the next feed.
 - [Fix] The problem that the widget marked as read cannot be updated if it encounters an article that remains unread.
 - [Fix] Fixed the issue where all fluorescent labels in the sidebar are selected.
