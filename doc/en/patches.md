@@ -1,26 +1,33 @@
+### 4.9.10
+###### 2026-7-12
+- [optimize] Optimize reading time. https://github.com/seazon/FeedMe/issues/188
+- [fix] Fixed the problem that the article list cannot be refreshed when it is empty. https://github.com/seazon/FeedMe/issues/180#issuecomment-4934758822
+- [fix] Fixed the issue where the currently selected feed is not displayed in the sidebar after marking it as read. https://github.com/seazon/FeedMe/issues/190
+- [fix] Fixed the problem that the title is not updated when searching.
+
 ### 4.9.9
 ###### 2026-7-10
-- [Optimization] Optimize the sliding smoothness of the article list.
-- [Optimization] Caching the scroll position of articles. https://github.com/seazon/FeedMe/issues/180#issuecomment-4884672544
-- [Optimization] Social media layout supports links.
-- [Optimization] When sliding the list up and down in the article list, it is now less likely to trigger the left and right sliding of the list items.
-- [Optimization] When the list is empty, you can still pull down to refresh. https://github.com/seazon/FeedMe/issues/180#issuecomment-4887250458
-- [Optimization] Optimize the problem of unclear text when the visual widget has no picture.
-- [Optimization] Other minor UI detail optimizations.
-- [Fix] Sometimes there will be a few things left as read, and there will be no response when clicking to mark them all as read. https://github.com/seazon/FeedMe/issues/186
-- [Fix] Fixed the issue where marking read did not automatically jump to the next feed.
-- [Fix] The problem that the widget marked as read cannot be updated if it encounters an article that remains unread.
-- [Fix] Fixed the issue where all fluorescent labels in the sidebar are selected.
+- [optimize] Optimize the sliding smoothness of the article list.
+- [optimize] Caching the scroll position of articles. https://github.com/seazon/FeedMe/issues/180#issuecomment-4884672544
+- [optimize] Social media layout supports links.
+- [optimize] When sliding the list up and down in the article list, it is now less likely to trigger the left and right sliding of the list items.
+- [optimize] When the list is empty, you can still pull down to refresh. https://github.com/seazon/FeedMe/issues/180#issuecomment-4887250458
+- [optimize] Optimize the problem of unclear text when the visual widget has no picture.
+- [optimize] Other minor UI detail optimizations.
+- [fix] Sometimes there will be a few things left as read, and there will be no response when clicking to mark them all as read. https://github.com/seazon/FeedMe/issues/186
+- [fix] Fixed the issue where marking read did not automatically jump to the next feed.
+- [fix] The problem that the widget marked as read cannot be updated if it encounters an article that remains unread.
+- [fix] Fixed the issue where all fluorescent labels in the sidebar are selected.
 
 ### 4.9.8
 ###### 2026-7-5
-- [Optimization] Removed the behavior where the first item in the article list is selected by default.
-- [Fix] Fixed an issue where widget images failed to display in certain scenarios. https://github.com/seazon/FeedMe/issues/137
-- [Fix] Fixed an issue where clicking an article in the widget failed to open it under certain circumstances. https://github.com/seazon/FeedMe/issues/128
-- [Fix] Fixed an issue where the UI did not refresh synchronously after marking as read.
-- [Fix] Fixed an issue where menu functions were unresponsive (e.g., AI summary in article list, page navigation).
-- [Fix] Fixed an issue where the article page did not refresh after switching to dark mode.
-- [Fix] Fixed several minor UI and interaction issues.
+- [optimize] Removed the behavior where the first item in the article list is selected by default.
+- [fix] Fixed an issue where widget images failed to display in certain scenarios. https://github.com/seazon/FeedMe/issues/137
+- [fix] Fixed an issue where clicking an article in the widget failed to open it under certain circumstances. https://github.com/seazon/FeedMe/issues/128
+- [fix] Fixed an issue where the UI did not refresh synchronously after marking as read.
+- [fix] Fixed an issue where menu functions were unresponsive (e.g., AI summary in article list, page navigation).
+- [fix] Fixed an issue where the article page did not refresh after switching to dark mode.
+- [fix] Fixed several minor UI and interaction issues.
 
 ### 4.9.7
 ###### 2026-7-3

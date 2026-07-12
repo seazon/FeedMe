@@ -1,3 +1,10 @@
+### 4.9.10
+###### 2026-7-12
+- [优化] 优化阅读时间。https://github.com/seazon/FeedMe/issues/188
+- [修复] 修复文章列表为空时不能下拉刷新的问题。https://github.com/seazon/FeedMe/issues/180#issuecomment-4934758822
+- [修复] 修复标记已读后当前选中订阅源在侧栏不显示的问题。https://github.com/seazon/FeedMe/issues/190
+- [修复] 修复搜索时标题没有更新的问题。
+
 ### 4.9.9
 ###### 2026-7-10
 - [优化] 优化文章列表的滑动流畅性。
