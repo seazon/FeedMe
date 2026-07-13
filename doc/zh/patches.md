@@ -1,3 +1,9 @@
+### 4.9.11
+###### 2026-7-14
+- [修复] 当启用分动作条时不需要显示FAB。
+- [修复] 修复底部菜单高度太小的问题。
+- [修复] 修复底部菜单和底部导航栏重叠的问题。https://github.com/seazon/FeedMe/issues/180#issuecomment-4962012415
+
 ### 4.9.10
 ###### 2026-7-12
 - [优化] 优化阅读时间。https://github.com/seazon/FeedMe/issues/188

@@ -1,3 +1,9 @@
+### 4.9.11
+###### 2026-7-14
+- [fix] FAB does not need to be displayed when split action bar is enabled.
+- [fix] Fixed the problem that the bottom menu height is too small.
+- [fix] Fixed the overlapping problem of bottom menu and bottom navigation bar. https://github.com/seazon/FeedMe/issues/180#issuecomment-4962012415
+
 ### 4.9.10
 ###### 2026-7-12
 - [optimize] Optimize reading time. https://github.com/seazon/FeedMe/issues/188
