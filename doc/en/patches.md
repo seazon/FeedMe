@@ -1,3 +1,11 @@
+### 4.9.12
+###### 2026-7-16
+- [fix] Fixed the problem of mismatched articles when switching articles on the article details page and returning to the article list page. https://github.com/seazon/FeedMe/issues/189
+- [fix] Fixed the problem that the feed management bottom sheet cannot be opened on the article list and article details page.
+- [fix] Fixed the crash issue of the article list page in some cases. https://github.com/seazon/FeedMe/issues/195
+- [fix] Show Action bar when switching articles. https://github.com/seazon/FeedMe/issues/196
+- [other] Other performance and UI optimizations.
+
 ### 4.9.11
 ###### 2026-7-14
 - [fix] FAB does not need to be displayed when split action bar is enabled.
