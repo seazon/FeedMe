@@ -1,3 +1,12 @@
+### 4.9.13
+###### 2026-7-18
+- [Fix] Fixed an issue where web pages would not display correctly after loading. https://github.com/seazon/FeedMe/issues/201
+- [Fix] Fixed an issue where certain text fonts did not match the system font.
+- [Fix] Fixed an issue where text link tags in the social layout would not display correctly under specific circumstances.
+- [Other] Rewrote the highlight tag editing dialog and the synchronization dialog.
+- [Other] Adjusted the widths of the article list and detail view; they now each occupy half the space.
+- [Other] Other UI improvements.
+
 ### 4.9.12
 ###### 2026-7-16
 - [fix] Fixed the problem of mismatched articles when switching articles on the article details page and returning to the article list page. https://github.com/seazon/FeedMe/issues/189
