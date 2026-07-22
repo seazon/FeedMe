@@ -1,3 +1,9 @@
+### 4.9.14
+###### 2026-7-22
+- [Fix] Fixed the issue where feed/web cannot be switched on the article details page. https://github.com/seazon/FeedMe/issues/201#issuecomment-5013273961
+- [Fix] Fixed database issue on some devices.
+- [Others] Other UI optimizations.
+
 ### 4.9.13
 ###### 2026-7-18
 - [Fix] Fixed an issue where web pages would not display correctly after loading. https://github.com/seazon/FeedMe/issues/201

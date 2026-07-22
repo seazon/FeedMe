@@ -1,3 +1,9 @@
+### 4.9.14
+###### 2026-7-22
+- [修复] 修复文章详情页无法切换feed/web的问题。https://github.com/seazon/FeedMe/issues/201#issuecomment-5013273961
+- [修复] 修复某些设备上数据库问题。
+- [其他] 其他UI优化。
+
 ### 4.9.13
 ###### 2026-7-18
 - [修复] 修复Web页加载后不能正确显示的问题。https://github.com/seazon/FeedMe/issues/201
