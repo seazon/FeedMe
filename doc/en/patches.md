@@ -1,3 +1,8 @@
+### 4.9.15
+###### 2026-7-26
+- [Fix] Fixed the issue where the read and star status of the menu bar were not updated when switching articles.
+- [Fix] Fixed some crash issues.
+
 ### 4.9.14
 ###### 2026-7-22
 - [Fix] Fixed the issue where feed/web cannot be switched on the article details page. https://github.com/seazon/FeedMe/issues/201#issuecomment-5013273961
