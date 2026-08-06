@@ -1,3 +1,18 @@
+# 4.10.0
+###### 2026-8-7
+- [新增] 文章列表宽度足够时展示更多内容（作用于除`通知`和`社交媒体`外所有布局）。
+- [新增] `界面`下新增文章列表详情页面比例设置，这一设置同样作用于`订阅`和`探索`页面。https://github.com/seazon/FeedMe/issues/200
+- [新增] 支持DPlayer。https://github.com/seazon/FeedMe/issues/207
+- [新增] 播客章节读取支持流，支持从Show Notes读取章节信息。
+- [新增] `操纵`下新增禁止文章详情页面左右滑动的选项。
+- [优化] `通知`布局调整，现在会展示更多条目。https://github.com/seazon/FeedMe/issues/181
+- [优化] `卡片`布局标题最多显示7行，支持摘要。https://github.com/seazon/FeedMe/issues/159#issuecomment-5093209716
+- [优化] FreshRSS 认证信息发送更安全。https://github.com/seazon/FeedMe/issues/168
+- [修复] 修复最后一个项目没有播放的问题。
+- [其他] 重写订阅页面，探索页面，荧光标签页面及多个对话框的代码。
+- [其他] 删除统计功能。
+- [其他] 其他UI优化和小问题修复。
+
 ### 4.9.16
 ###### 2026-8-7
 - [修复] 修复当列表中有已读条目时，标记全部已读后仍会显示之前的已读条目的问题。https://github.com/seazon/FeedMe/issues/209 

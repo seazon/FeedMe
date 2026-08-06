@@ -1,26 +1,41 @@
+# 4.10.0
+###### 2026-8-7
+- [new] Displays more content in the article list when there is sufficient width (applies to all layouts except `Notifications` and `Social Media`).
+- [new] Added a setting under `Interface` to control the aspect ratio of the article detail view; this setting also applies to the `Subscriptions` and `Explore` pages. https://github.com/seazon/FeedMe/issues/200
+- [new] Added support for DPlayer. https://github.com/seazon/FeedMe/issues/207
+- [new] Podcast chapter parsing now supports streaming and reading chapter information from Show Notes.
+- [new] Added an option under `Controls` to disable horizontal swiping on the article detail page.
+- [optimize] Adjusted the `Notifications` layout to display more items. https://github.com/seazon/FeedMe/issues/181
+- [optimize] The `Card` layout now displays up to 7 lines for titles and supports showing summaries. https://github.com/seazon/FeedMe/issues/159#issuecomment-5093209716
+- [optimize] Enhanced security for sending FreshRSS authentication credentials. https://github.com/seazon/FeedMe/issues/168
+- [fix] Fixed an issue where the last item would not play.
+- [other] Rewrote the code for the Subscriptions page, Explore page, Highlighter page, and several dialogs.
+- [other] Removed the statistics page.
+- [other] Various UI improvements and minor bug fixes.
+
 ### 4.9.16
 ###### 2026-8-7
-- [Fix] Fixed an issue where previously read items remained visible after marking all items as read. https://github.com/seazon/FeedMe/issues/209
+- [fix] Fixed an issue where previously read items remained visible after marking all items as read. https://github.com/seazon/FeedMe/issues/209
 
 ### 4.9.15
 ###### 2026-7-26
-- [Fix] Fixed the issue where the read and star status of the menu bar were not updated when switching articles.
-- [Fix] Fixed some crash issues.
+- [fix] Fixed the issue where the read and star status of the menu bar were not updated when switching articles.
+- [fix] Fixed some crash issues.
 
 ### 4.9.14
 ###### 2026-7-22
-- [Fix] Fixed the issue where feed/web cannot be switched on the article details page. https://github.com/seazon/FeedMe/issues/201#issuecomment-5013273961
-- [Fix] Fixed database issue on some devices.
-- [Others] Other UI optimizations.
+- [fix] Fixed the issue where feed/web cannot be switched on the article details page. https://github.com/seazon/FeedMe/issues/201#issuecomment-5013273961
+- [fix] Fixed database issue on some devices.
+- [others] Other UI optimizations.
 
 ### 4.9.13
 ###### 2026-7-18
-- [Fix] Fixed an issue where web pages would not display correctly after loading. https://github.com/seazon/FeedMe/issues/201
-- [Fix] Fixed an issue where certain text fonts did not match the system font.
-- [Fix] Fixed an issue where text link tags in the social layout would not display correctly under specific circumstances.
-- [Other] Rewrote the highlight tag editing dialog and the synchronization dialog.
-- [Other] Adjusted the widths of the article list and detail view; they now each occupy half the space.
-- [Other] Other UI improvements.
+- [fix] Fixed an issue where web pages would not display correctly after loading. https://github.com/seazon/FeedMe/issues/201
+- [fix] Fixed an issue where certain text fonts did not match the system font.
+- [fix] Fixed an issue where text link tags in the social layout would not display correctly under specific circumstances.
+- [other] Rewrote the highlight tag editing dialog and the synchronization dialog.
+- [other] Adjusted the widths of the article list and detail view; they now each occupy half the space.
+- [other] Other UI improvements.
 
 ### 4.9.12
 ###### 2026-7-16
