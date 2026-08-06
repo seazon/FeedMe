@@ -1,3 +1,7 @@
+### 4.9.16
+###### 2026-8-7
+- [Fix] Fixed an issue where previously read items remained visible after marking all items as read. https://github.com/seazon/FeedMe/issues/209
+
 ### 4.9.15
 ###### 2026-7-26
 - [Fix] Fixed the issue where the read and star status of the menu bar were not updated when switching articles.
