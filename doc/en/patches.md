@@ -1,3 +1,12 @@
+### 4.10.1
+###### 2026-8-21
+- [new] New option: Whether to display more entries in the article list in `Settings` - `Interface` - `Show More Items When Width Allows`. https://github.com/seazon/FeedMe/issues/216
+- [optimize] The synchronization completion prompt has been moved to the bottom. https://github.com/seazon/FeedMe/issues/202
+- [fix] Fixed an issue with inaccurate page turning. https://github.com/seazon/FeedMe/issues/215
+- [fix] Fixed an issue with the bottom action bar being too small. https://github.com/seazon/FeedMe/issues/218
+- [fix] Fixed an issue where pull-to-refresh was unavailable when the article list was empty.
+- [fix] Fixed some crash issues.
+
 # 4.10.0
 ###### 2026-8-7
 - [new] Displays more content in the article list when there is sufficient width (applies to all layouts except `Notifications` and `Social Media`).

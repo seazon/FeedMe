@@ -1,3 +1,12 @@
+### 4.10.1
+###### 2026-8-21
+- [新增] 新选项：文章列表是否展示更多条目在`设置`-`界面`-`在宽度足够时显示更多条目`。https://github.com/seazon/FeedMe/issues/216
+- [优化] 同步完成提示框移到底部。https://github.com/seazon/FeedMe/issues/202
+- [修复] 修复翻页不准确的问题。https://github.com/seazon/FeedMe/issues/215
+- [修复] 修复底部动作条高度太小的问题。https://github.com/seazon/FeedMe/issues/218
+- [修复] 修复文章列表为空时下拉刷新不可用的问题。
+- [修复] 修复一些崩溃问题。
+
 # 4.10.0
 ###### 2026-8-7
 - [新增] 文章列表宽度足够时展示更多内容（作用于除`通知`和`社交媒体`外所有布局）。
