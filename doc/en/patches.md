@@ -1,3 +1,11 @@
+### 4.10.2
+###### 2026-8-29
+- [optimize] Article list now supports marking articles as read by pulling up from the bottom.
+- [optimize] Added a scroll indicator to the article list.
+- [optimize] Optimized article preloading in the article list to ensure sufficient content for pagination. https://github.com/seazon/FeedMe/issues/215#issuecomment-5432205618
+- [fix] Fixed an issue where swiping in the article view would incorrectly mark previous articles as read. https://github.com/seazon/FeedMe/issues/220
+- [fix] Fixed an issue where hidden menu items were still displayed in the menu bar. https://github.com/seazon/FeedMe/issues/221#issuecomment-5380594511
+
 ### 4.10.1
 ###### 2026-8-21
 - [new] New option: Whether to display more entries in the article list in `Settings` - `Interface` - `Show More Items When Width Allows`. https://github.com/seazon/FeedMe/issues/216

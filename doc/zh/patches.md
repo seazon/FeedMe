@@ -1,3 +1,11 @@
+### 4.10.2
+###### 2026-8-29
+- [优化] 文章列表支持底部上拉标记已读。
+- [优化] 文章列表增加滚动指示条。
+- [优化] 优化文章列表预加载文章，保证有足够的内容来翻页。https://github.com/seazon/FeedMe/issues/215#issuecomment-5432205618
+- [修复] 修复文章页滑动会把前面的文章标记已读的问题。https://github.com/seazon/FeedMe/issues/220
+- [修复] 修复隐藏的菜单也显示在菜单栏的问题。https://github.com/seazon/FeedMe/issues/221#issuecomment-5380594511
+
 ### 4.10.1
 ###### 2026-8-21
 - [新增] 新选项：文章列表是否展示更多条目在`设置`-`界面`-`在宽度足够时显示更多条目`。https://github.com/seazon/FeedMe/issues/216
