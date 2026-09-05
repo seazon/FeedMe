@@ -1,3 +1,8 @@
+### 4.10.3
+###### 2026-9-5
+- [optimize] Add the setting item of pull-up mark as read, go to `Settings`-`Control`-`Pull up to Mark Read`. https://github.com/seazon/FeedMe/issues/214
+- [optimize] Add `unlimited` option to local cache. https://github.com/seazon/FeedMe/issues/217
+
 ### 4.10.2
 ###### 2026-8-29
 - [optimize] Article list now supports marking articles as read by pulling up from the bottom.

@@ -1,3 +1,8 @@
+### 4.10.3
+###### 2026-9-5
+- [优化] 增加上拉标记已读的设置项，在`设置`-`操纵`-`上拉标记已读`。 https://github.com/seazon/FeedMe/issues/214
+- [优化] 本地缓存增加`无限制`的选项。https://github.com/seazon/FeedMe/issues/217
+
 ### 4.10.2
 ###### 2026-8-29
 - [优化] 文章列表支持底部上拉标记已读。
@@ -8,7 +13,7 @@
 
 ### 4.10.1
 ###### 2026-8-21
-- [新增] 新选项：文章列表是否展示更多条目在`设置`-`界面`-`在宽度足够时显示更多条目`。https://github.com/seazon/FeedMe/issues/216
+- [新增] 新选项：文章列表是否展示更多条目，在`设置`-`界面`-`在宽度足够时显示更多条目`。https://github.com/seazon/FeedMe/issues/216
 - [优化] 同步完成提示框移到底部。https://github.com/seazon/FeedMe/issues/202
 - [修复] 修复翻页不准确的问题。https://github.com/seazon/FeedMe/issues/215
 - [修复] 修复底部动作条高度太小的问题。https://github.com/seazon/FeedMe/issues/218
