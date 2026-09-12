@@ -1,3 +1,7 @@
+### 4.11.1
+###### 2026-9-13
+- [Fix] Fixed the issue of escape characters in AI summary. https://github.com/seazon/FeedMe/issues/228
+
 # 4.11.0
 ###### 2026-9-12
 - [new] Audio playback refine
