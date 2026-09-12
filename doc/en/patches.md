@@ -1,3 +1,18 @@
+# 4.11.0
+###### 2026-9-12
+- [new] Audio playback refine
+  - Rewritten player UI with better large-screen adaptation.
+  - Unified audio playback notification.
+  - Fixed an issue where the next episode did not auto-play after the current one ended.
+  - Fixed an issue where the playlist was lost.
+- [new] Premium feature: Full-article translation on the article page.
+- [new] Premium feature: Added Sepia and Solarized themes.
+- [optimize] Added option to globally disable image downloads. https://github.com/seazon/FeedMe/issues/227
+- [optimize] Added support for caching article summaries.
+- [fix] Fixed incorrect image display order in articles. https://github.com/seazon/FeedMe/issues/164
+- [other] Various UX improvements and minor fixes.
+- [other] Refactored code for the image viewer, built-in browser, and multiple dialogs.
+
 ### 4.10.3
 ###### 2026-9-5
 - [optimize] Add the setting item of pull-up mark as read, go to `Settings`-`Control`-`Pull up to Mark Read`. https://github.com/seazon/FeedMe/issues/214

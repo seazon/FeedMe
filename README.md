@@ -16,10 +16,10 @@ This is the documentation of FeedMe.
 
 ## Version & Download:
 - Google Play https://play.google.com/store/apps/details?id=com.seazon.feedme
-  - release: 4.10.1
-  - beta: 4.10.3 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+  - release: 4.10.3
+  - beta: 4.11.0 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 - Github https://github.com/seazon/FeedMe/releases
-  - 4.10.3
+  - 4.11.0
 
 ## Contact:
 - (Recommendation) https://github.com/seazon/FeedMe/issues
