@@ -1,6 +1,12 @@
+### 4.11.2
+###### 2026-9-22
+- [optimize] Optimize the pull-up experience and add the `Show next feed/category` option. https://github.com/seazon/FeedMe/issues/214
+- [optimize] Add accent color `Exact Color` switch in `Theme` settings. https://github.com/seazon/FeedMe/issues/230
+- [other] Other UI optimizations and minor bug fixes.
+
 ### 4.11.1
 ###### 2026-9-13
-- [Fix] Fixed the issue of escape characters in AI summary. https://github.com/seazon/FeedMe/issues/228
+- [fix] Fixed the issue of escape characters in AI summary. https://github.com/seazon/FeedMe/issues/228
 
 # 4.11.0
 ###### 2026-9-12

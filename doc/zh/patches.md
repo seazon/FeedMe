@@ -1,3 +1,9 @@
+### 4.11.2
+###### 2026-9-22
+- [优化] 优化上拉的体验并增加`显示下个订阅／类别`选项。https://github.com/seazon/FeedMe/issues/214
+- [优化] 在`主题`设置中增加强调色`精确颜色`的开关。https://github.com/seazon/FeedMe/issues/230
+- [其他] 其他UI优化和小问题修复。
+
 ### 4.11.1
 ###### 2026-9-13
 - [修复] 修复AI总结出现转义字符的问题。https://github.com/seazon/FeedMe/issues/228
