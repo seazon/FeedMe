@@ -1,3 +1,21 @@
+#4.12.0
+###### 2026-10-6
+- [important‼️] A large number of updates have been made at the code level (all Java codes are converted to Kotlin, and 99% of the UI uses Compose). If you find that existing functions are not working properly, please provide feedback in time and we will fix it as soon as possible.
+- [new] `Settings`-`Service`-`AI` In addition to setting up the Cloud AI API, it also adds support for local AI models, allowing you to use AI capabilities without a network.
+- [new] `Settings`-`Interface`-`Interface` adds `Layout Settings` to set different layouts for different content.
+- [new] Added `FeedMe Neo` mobilizer, which uses different technologies to capture full text and supports account login to access content which requires authentication.
+- [new] `Settings`-`Backup` adds starred entries to export to CSV, JSON and Markdown file. https://github.com/seazon/FeedMe/issues/176
+- [new] Supports two-way synchronization of Feed layout for Folo. https://github.com/seazon/FeedMe/issues/234
+- [new] The `View` menu of the article list adds the option of `Show Author`. The author is not displayed by default.
+- [new] `Settings`-`Interface` adds the option of `Keep Groups Expanded`. https://github.com/seazon/FeedMe/issues/242
+- [optimize] AI summary supports streaming output to reduce waiting time.
+- [optimize] Optimize cache cleaning, which can clear more cached images and display the size of some cached data.
+- [optimize] The chapter dialog in the player page now highlights the currently playing chapter.
+- [fix] Fixed the issue where sharing on WeChat fails when retrieving pictures fails.
+- [fix] Fixed the problem of failure to share Karakeep. https://github.com/seazon/FeedMe/issues/236
+- [other] Rewrite the code of the settings page and multiple dialogs.
+- [other] Other UI optimizations and minor bug fixes.
+
 ### 4.11.2
 ###### 2026-9-22
 - [optimize] Optimize the pull-up experience and add the `Show next feed/category` option. https://github.com/seazon/FeedMe/issues/214
