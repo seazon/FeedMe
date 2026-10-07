@@ -8,7 +8,7 @@
 ###### 2026-10-6
 - [重要‼️] 代码层面大量更新（Java代码全部转成Kotlin,99% UI使用了Compose），如果发现已有功能不能正常工作，请及时反馈，会第一时间进行修复。
 - [新增] `设置`-`服务`-`AI`除了设置Cloud AI API，还增加了本地AI模型的支持，可以无网络使用AI能力。
-- [新增] `设置`-`界面`-`界面`新增`布局设置`，为不同内容设置不同的布局。
+- [新增] `设置`-`界面`新增`布局设置`，为不同内容设置不同的布局。
 - [新增] 新增`FeedMe Neo` mobilizer，采用不同技术抓取全文，并支持账户登录来获取文章。
 - [新增] `设置`-`备份`增加加星条目导出到CSV，JSON和Markdown文件。https://github.com/seazon/FeedMe/issues/176
 - [新增] 支持与Folo双向同步Feed布局。https://github.com/seazon/FeedMe/issues/234
