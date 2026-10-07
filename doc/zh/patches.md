@@ -1,3 +1,9 @@
+### 4.12.1
+###### 2026-10-7
+- [修复] 修复删除模型但是没有删除缓存的问题。https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
+- [修复] 修复打开浏览器失败的问题。https://github.com/seazon/FeedMe/issues/245
+- [其他] 其他UI优化和小问题修复。
+
 # 4.12.0
 ###### 2026-10-6
 - [重要‼️] 代码层面大量更新（Java代码全部转成Kotlin,99% UI使用了Compose），如果发现已有功能不能正常工作，请及时反馈，会第一时间进行修复。

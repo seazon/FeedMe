@@ -1,4 +1,10 @@
-#4.12.0
+### 4.12.1
+###### 2026-10-7
+- [Fix] Fixed the problem of deleting the model but not deleting the cache. https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
+- [Fix] Fixed the issue of failure to open the browser. https://github.com/seazon/FeedMe/issues/245
+- [Others] Other UI optimizations and minor bug fixes.
+
+# 4.12.0
 ###### 2026-10-6
 - [important‼️] A large number of updates have been made at the code level (all Java codes are converted to Kotlin, and 99% of the UI uses Compose). If you find that existing functions are not working properly, please provide feedback in time and we will fix it as soon as possible.
 - [new] `Settings`-`Service`-`AI` In addition to setting up the Cloud AI API, it also adds support for local AI models, allowing you to use AI capabilities without a network.
