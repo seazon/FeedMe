@@ -1,3 +1,12 @@
+### 4.12.2
+###### 2026-10-11
+- [优化] 用户可以自定义使用GPU还是CPU加速器。
+- [修复] 修复"Can not find OpenCL library on this device"的问题。https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
+- [修复] 修复布局设置在重启应用后失效的问题。
+- [修复] 修复键盘快捷键失效的问题。
+- [修复] 修复长按url弹出的对话框未显示url的问题。https://github.com/seazon/FeedMe/issues/244#issuecomment-6028547337
+- [其他] 其他UI优化和小问题修复。
+
 ### 4.12.1
 ###### 2026-10-7
 - [修复] 修复删除模型但是没有删除缓存的问题。https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859

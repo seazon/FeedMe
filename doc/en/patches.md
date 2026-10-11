@@ -1,8 +1,17 @@
+### 4.12.2
+###### 2026-10-11
+- [optimize] Users can customize whether to use GPU or CPU accelerator.
+- [fix] Fixed "Can not find OpenCL library on this device" issue. https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
+- [fix] Fixed the issue where layout settings become invalid after restarting the application.
+- [fix] Fixed the problem of keyboard shortcuts not working.
+- [fix] Fixed the issue where the pop-up dialog box does not display the URL when long pressing the URL. https://github.com/seazon/FeedMe/issues/244#issuecomment-6028547337
+- [other] Other UI optimizations and minor bug fixes.
+
 ### 4.12.1
 ###### 2026-10-7
-- [Fix] Fixed the problem of deleting the model but not deleting the cache. https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
-- [Fix] Fixed the issue of failure to open the browser. https://github.com/seazon/FeedMe/issues/245
-- [Others] Other UI optimizations and minor bug fixes.
+- [fix] Fixed the problem of deleting the model but not deleting the cache. https://github.com/seazon/FeedMe/issues/243#issuecomment-6018788859
+- [fix] Fixed the issue of failure to open the browser. https://github.com/seazon/FeedMe/issues/245
+- [other] Other UI optimizations and minor bug fixes.
 
 # 4.12.0
 ###### 2026-10-6
