@@ -1,3 +1,7 @@
+### 4.12.3
+###### 2026-10-12
+- [fix] Fixed crash on opening image block dialog.
+
 ### 4.12.2
 ###### 2026-10-11
 - [optimize] Users can customize whether to use GPU or CPU accelerator.
