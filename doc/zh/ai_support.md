@@ -1,24 +1,135 @@
-### 设置AI API Key
-在`设置`-`服务`中找到`翻译`或者`AI总结`
+# AI 支持
 
-<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_1.png" width="25%" height="25%" />
+FeedMe 的 AI 能力可以用于翻译和总结。
 
-设置类型，Key和其他需要的参数
+### AI 能做什么
 
-<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_2.png" width="25%" height="25%" />
+| 功能 | 使用位置 | 是否需要订阅源开关                                           | 是否需付费解锁 |
+| --- | --- |-----------------------------------------------------| --- |
+| 翻译标题 | 文章列表 | 需要，在订阅源/类别开启`阅读时翻译文章标题`                             | 否 |
+| 翻译全文 | 文章页菜单 | 不需要                                                 | 是 |
+| 总结单篇文章 | 文章页 | 在订阅源/类别开启`显示AI总结`后进入文章页会自动总结。但即使不开启，文章页也提供了按钮来手动总结。 | 否 |
+| 总结文章列表的多篇文章 | 文章列表菜单 | 不需要                                                 | 是 |
 
-点击`保存`按钮即完成设置
+#### 翻译标题
 
-### 启用订阅源/类别的翻译和AI总结功能
-在`订阅设置`页面，打开某个订阅源或者类别的页面，找到翻译或者AI总结，启用它
+设置完成并在订阅源或类别开启`阅读时翻译文章标题`后，在`文章列表`页面，标题会自动显示翻译结果在原标题后。标题为空的文章不会被翻译，已经翻译过的结果会被保存下来，不会重复翻译。
 
-<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_3.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_translate_for_list.png" width="25%" height="25%" />
 
-### 开始体验
-标题翻译：完成上述设置后，在`文章列表`页面，标题会自动显示翻译结果在原标题后
+#### 翻译全文
 
-<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_4.png" width="25%" height="25%" />
+在某篇文章页面上，通过菜单中的翻译按钮，可以在译文和原文之间切换，整个正文都会被翻译。再点击一次即可切回原文。这个功能不需要依赖`阅读时翻译文章标题`开关，随时都可以使用。
 
-文章总结：点击该订阅源的文章进入`文章页面`，在文章正文顶部，会显示AI生成的文章总结内容，帮助快速掌握文章核心。
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_translate_for_article_1.png" width="25%" height="25%" />
 
-<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_5.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_translate_for_article_2.png" width="25%" height="25%" />
+
+#### 总结单篇文章
+
+在某篇文章页面上，进入后在正文顶部会显示 AI 生成的文章总结，帮助快速掌握文章核心。总结采用流式输出以减少等待时间，生成成功后会被保存，再次打开同一篇文章不会再重复调用 AI。内容过短的文章会自动不显示总结部分。在订阅源或类别开启`显示AI总结`后进入文章页就会自动总结。但即使不开启，文章页也提供了按钮来手动总结。
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_summary_for_article.png" width="25%" height="25%" />
+
+#### 总结文章列表的多篇文章
+
+在`文章列表`页面，通过菜单中的`AI总结`可以对当前列表中的多篇文章做一次整体总结。为了方便阅读，结果会按照主题进行归并。
+
+总结摘要页面上有两个按钮：第一个用来把参与总结的文章标记为已读，第二个用来复制总结内容。
+
+由于单次请求能处理的文章数量有限，当列表中的文章数量超过上限时，只会总结前面的部分文章；触发时会弹出提示说明本次请求的文章数量上限。这个功能使用的是内置的提示词，不使用在`提示词`中的自定义内容。
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_summary_for_article_list_1.png" width="25%" height="25%" />
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_summary_for_article_list_2.png" width="25%" height="25%" />
+
+### 配置 AI
+
+在`设置`-`服务`中找到`AI`
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_choose_mode.png" width="25%" height="25%" />
+
+AI 有2种类型可选，任意时刻只会使用其中一种：
+
+- `Cloud API`：能力最强，需要联网。
+- `本地模型`：用户自己管理的离线引擎，需要下载大于 2GB 的模型文件。
+
+选定其中一种后，可以在下方点击测试按钮验证是否可以正常使用。
+
+#### Cloud API
+
+设置服务类型、URL、模型和密钥
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_cloud_api_setting.png" width="25%" height="25%" />
+
+- `类型`：支持 Gemini、火山方舟、智谱 GLM、通义千问 QWen、OpenAI、MiniMax，以及`自定义`。其中`自定义`需要付费解锁。
+- `URL`：一般不需要修改，选择服务类型后会自动填充。选择`自定义`时可以自行填写。
+- `模型`：可以在下拉列表中选择，也支持手动填写。
+- `密钥`：对应服务的 API Key。
+
+填写完成后点击`保存`，再点击测试按钮，验证通过后即可使用。
+
+#### 本地模型
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_model_local_model.png" width="25%" height="25%" />
+
+选择`本地模型`后，AI 会直接在设备上运行推理，完全不需要联网，既能保护数据隐私，离线时也能使用总结和翻译。
+
+模型需要提前准备好并通过`本地模型`对话框导入：
+
+- 模型文件需要用户自行获取，**App 本身不提供模型下载**，可以通过文件管理器或者 adb 放到设备上。
+- 点击`导入本地模型（.litertlm / .task）`，在弹出的系统文件选择器中选择文件即可开始导入，导入过程中会显示进度。模型文件通常大于 2GB，导入需要一些时间。
+- 导入后的模型保存在 App 的私有目录下，可以随时删除。
+
+导入完成后可以对模型进行如下设置：
+
+- `设为默认`：将其作为当前使用的本地模型。
+- `测速`：测试模型在本机上的推理速度，结果以 tokens/秒 显示，可以用来大致判断模型在当前设备上的运行速度。
+- `加速器`：为模型单独选择使用 GPU、CPU 或者自动。
+
+### 自定义提示词
+
+在`设置`-`服务`中找到`提示词`，可以分别为`总结`和`翻译`两种场景自定义提示词。
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_prompt_setting.png" width="25%" height="25%" />
+
+编写提示词时需要遵循以下规则：
+
+- 使用`{content}`占位符来表示文章的内容。
+- 使用`{language}`占位符表示 AI 生成内容的目标语言（可以在语言设置中配置）。
+
+这两个占位符必须同时存在，缺少任意一个都无法保存。修改后随时可以恢复为默认提示词。
+
+作用范围：
+
+- `翻译`提示词同时用于`翻译标题`和`翻译全文`。
+- `总结`提示词用于`总结单篇文章`。
+- `总结文章列表的多篇文章`使用内置提示词，不受这里的影响。
+
+自定义提示词需要付费解锁。
+
+### 为订阅源/类别启用 AI
+
+对于`翻译标题`和`总结单篇文章`，需要在订阅源或者类别上单独启用。
+
+在`订阅设置`页面，打开某个订阅源或者类别的页面，找到`阅读时翻译文章标题`或者`显示AI总结`，启用它
+
+<img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_setting_in_feed_setting.png" width="25%" height="25%" />
+
+每个开关都有三种状态：跟随父级、否、是。订阅源可以继承所在类别的设置，类别可以继承全局设置，这样可以只对需要翻译的外文源启用，而不用全部打开。
+
+`翻译全文`和`总结文章列表的多篇文章`不需要在这里启用，设置好 AI 后直接使用即可。
+
+### 付费解锁说明
+
+| 项目 | 是否需付费解锁 |
+| --- | --- |
+| 翻译标题 | 否 |
+| 总结单篇文章 | 否 |
+| 选择`本地模型`作为 AI 类型 | 否 |
+| 翻译全文 | 是 |
+| 总结文章列表的多篇文章 | 是 |
+| 自定义提示词 | 是 |
+| Cloud API 使用`自定义`类型 | 是 |
+
+未解锁时使用上述付费功能，会跳转到应用内支付页面。已有的 AI 配置本身不会产生额外费用，实际费用取决于所选 Cloud API 服务商的计费。
