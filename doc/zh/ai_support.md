@@ -49,9 +49,10 @@ FeedMe 的 AI 能力可以用于翻译和总结。
 
 <img src="https://github.com/seazon/FeedMe/blob/main/doc/en/imgs/ai_choose_mode.png" width="25%" height="25%" />
 
-AI 有2种类型可选，任意时刻只会使用其中一种：
+AI 有3种类型可选，任意时刻只会使用其中一种：
 
 - `Cloud API`：能力最强，需要联网。
+- `Embedded`：系统预装AI，无需下载，响应最快。【4.12.4新增支持】
 - `本地模型`：用户自己管理的离线引擎，需要下载大于 2GB 的模型文件。
 
 选定其中一种后，可以在下方点击测试按钮验证是否可以正常使用。

@@ -1,3 +1,9 @@
+### 4.12.4
+###### 2026-10-18
+- [new] `Settings`-`Service`-`AI` adds `Embedded`, supports Android AICore, no need to download model, supports device viewing: https://developers.google.com/ml-kit/genai#prompt-device
+- [fix] Fixed the problem that the menu of the picture browsing page is not displayed. https://github.com/seazon/FeedMe/issues/249
+- [other] Some crash fixes.
+
 ### 4.12.3
 ###### 2026-10-12
 - [fix] Fixed crash on opening image block dialog.

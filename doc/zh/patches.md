@@ -1,3 +1,9 @@
+### 4.12.4
+###### 2026-10-18
+- [新增] `设置`-`服务`-`AI`新增`Embedded`，支持安卓AICore，无需下载模型，支持设备查看：https://developers.google.com/ml-kit/genai#prompt-device
+- [修复] 修复图片浏览界面菜单不显示的问题。https://github.com/seazon/FeedMe/issues/249
+- [其他] 一些崩溃问题修复。
+
 ### 4.12.3
 ###### 2026-10-12
 - [修复] 修复打开图片拦截对话框时导致的崩溃问题。
