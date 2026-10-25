@@ -52,7 +52,7 @@ Find `AI` in `Settings` - `Service`
 There are two AI types to choose from, and only one is used at any time:
 
 - `Cloud API`: The most capable, requires a network connection.
-- `Embedded`：Pre-installed system AI. No download needed. Fastest response. [Added in 4.12.4]
+- ~`Embedded`：Pre-installed system AI. No download needed. Fastest response. [Added in 4.12.4]~[Removed in 4.12.5 because the effect did not meet expectations]
 - `Local Model`: A user-managed offline engine, requires downloading model files larger than 2GB.
 
 After choosing one, you can use the test button below to verify that it works.

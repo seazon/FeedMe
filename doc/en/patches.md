@@ -1,3 +1,11 @@
+### 4.12.5
+###### 2026-10-25
+- [optimize] Improved feed title color display. https://github.com/seazon/FeedMe/issues/255
+- [fix] Fixed unread articles being marked as read on Folo category pull-to-refresh. https://github.com/seazon/FeedMe/issues/250
+- [fix] Fixed images not displaying due to escaped characters in URLs. https://github.com/seazon/FeedMe/issues/253
+- [other] Removed `Embedded` option from `Settings` - `Services` - `AI`.
+- [other] Other UI optimizations and minor bug fixes.
+
 ### 4.12.4
 ###### 2026-10-18
 - [new] `Settings`-`Service`-`AI` adds `Embedded`, supports Android AICore, no need to download model, supports device viewing: https://developers.google.com/ml-kit/genai#prompt-device

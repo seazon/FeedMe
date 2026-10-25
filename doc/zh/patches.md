@@ -1,3 +1,11 @@
+### 4.12.5
+###### 2026-10-25
+- [优化] 优化 Feed 标题彩色显示效果。https://github.com/seazon/FeedMe/issues/255
+- [修复] 修复 Folo 服务下 Feed 分类列表下拉刷新时，未读文章被误标为已读的问题。https://github.com/seazon/FeedMe/issues/250
+- [修复] 修复部分文章图片链接含转义字符导致无法正常显示的问题。https://github.com/seazon/FeedMe/issues/253
+- [其他] 设置 - 服务 - AI 中移除 Embedded 选项。
+- [其他] 其他UI优化和小问题修复。
+
 ### 4.12.4
 ###### 2026-10-18
 - [新增] `设置`-`服务`-`AI`新增`Embedded`，支持安卓AICore，无需下载模型，支持设备查看：https://developers.google.com/ml-kit/genai#prompt-device
