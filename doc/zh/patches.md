@@ -1,3 +1,9 @@
+### 4.12.6
+###### 2026-10-30
+- [优化] 临时退出应用后再次返回时，分类列表保持展开状态。https://github.com/seazon/FeedMe/issues/242#issuecomment-6067114242
+- [优化] 图片视图新增卡片（Card）布局；卡片布局在无图片时不显示图片区域。https://github.com/seazon/FeedMe/issues/263
+- [修复] 收藏（星标）图标采用强调色。https://github.com/seazon/FeedMe/issues/264
+
 ### 4.12.5
 ###### 2026-10-25
 - [优化] 优化 Feed 标题彩色显示效果。https://github.com/seazon/FeedMe/issues/255

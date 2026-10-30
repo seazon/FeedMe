@@ -1,3 +1,9 @@
+### 4.12.6
+###### 2026-10-30
+- [optimize] The category list stays expanded when returning to the app after temporarily exiting. https://github.com/seazon/FeedMe/issues/242#issuecomment-6067114242
+- [optimize] Added a Card layout for the image view; the image area is hidden when no image is available. https://github.com/seazon/FeedMe/issues/263
+- [fix] The star (favorite) icon now uses the accent color. https://github.com/seazon/FeedMe/issues/264
+
 ### 4.12.5
 ###### 2026-10-25
 - [optimize] Improved feed title color display. https://github.com/seazon/FeedMe/issues/255
