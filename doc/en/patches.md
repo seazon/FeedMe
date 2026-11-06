@@ -1,3 +1,12 @@
+### 4.12.7
+###### 2026-11-7
+- [optimize] After reopening the app, the category directory will remain in its last expanded state. https://github.com/seazon/FeedMe/issues/242
+- [optimize] Optimize Mobilizer related prompts in `Feed Settings`. https://github.com/seazon/FeedMe/issues/273
+- [fix] Fixed the issue where local RSS import into OPML files failed. https://github.com/seazon/FeedMe/issues/269
+- [fix] Fixed the problem that the check status of `Settings`-`Service`-`System Sharing` is not updated and multiple identical entries appear repeatedly in the action bar.
+- [fix] Fixed the issue the click on refresh tips popup will penetrate and accidentally touch the underlying content. https://github.com/seazon/FeedMe/issues/271
+- [other] Other UI optimizations and minor bug fixes.
+
 ### 4.12.6
 ###### 2026-10-30
 - [optimize] The category list stays expanded when returning to the app after temporarily exiting. https://github.com/seazon/FeedMe/issues/242#issuecomment-6067114242

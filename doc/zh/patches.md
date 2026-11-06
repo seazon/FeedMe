@@ -1,3 +1,12 @@
+### 4.12.7
+###### 2026-11-7
+- [优化] 重新打开应用后，分类目录会保持上次的展开状态，不用再逐个点开。https://github.com/seazon/FeedMe/issues/242
+- [优化] 优化`订阅源设置`中 Mobilizer 的相关提示。https://github.com/seazon/FeedMe/issues/273
+- [修复] 修复本地 RSS 导入 OPML 文件失败的问题。https://github.com/seazon/FeedMe/issues/269
+- [修复] 修复`设置`-`服务`-`系统分享`勾选状态不更新、操作栏重复出现多个相同入口的问题。
+- [修复] 修复底部提示条弹出时，点击会穿透、误触到下层内容的问题。https://github.com/seazon/FeedMe/issues/271
+- [其他] 其他界面细节优化与已知小问题修复。
+
 ### 4.12.6
 ###### 2026-10-30
 - [优化] 临时退出应用后再次返回时，分类列表保持展开状态。https://github.com/seazon/FeedMe/issues/242#issuecomment-6067114242
