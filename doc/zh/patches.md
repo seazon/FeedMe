@@ -1,3 +1,8 @@
+### 4.12.8
+###### 2026-11-9
+- [修复] 修复无故创建额外类别的问题。https://github.com/seazon/FeedMe/issues/266
+- [修复] 恢复被删除的`界面`-`标记为已读`设置。https://github.com/seazon/FeedMe/issues/274
+
 ### 4.12.7
 ###### 2026-11-7
 - [优化] 重新打开应用后，分类目录会保持上次的展开状态，不用再逐个点开。https://github.com/seazon/FeedMe/issues/242

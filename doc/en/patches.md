@@ -1,3 +1,8 @@
+### 4.12.8
+###### 2026-11-9
+- [fix] Fixed an issue where extra categories were created for no reason. https://github.com/seazon/FeedMe/issues/266
+- [fix] Restore the deleted `Interface`-`Mark Read` setting. https://github.com/seazon/FeedMe/issues/274
+
 ### 4.12.7
 ###### 2026-11-7
 - [optimize] After reopening the app, the category directory will remain in its last expanded state. https://github.com/seazon/FeedMe/issues/242
