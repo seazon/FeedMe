@@ -1,3 +1,10 @@
+### 4.12.9
+###### 2026-11-13
+- [修复] 修复 Local RSS 同步不起作用的问题。https://github.com/seazon/FeedMe/issues/277
+- [修复] 修复 YouTube 视频不能播放的问题。https://github.com/seazon/FeedMe/issues/276
+- [修复] 修复`标记1天前已读`，`标记一周前已读`失效的问题。
+- [其他] 其他界面优化。
+
 ### 4.12.8
 ###### 2026-11-9
 - [修复] 修复无故创建额外类别的问题。https://github.com/seazon/FeedMe/issues/266

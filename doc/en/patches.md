@@ -1,3 +1,10 @@
+### 4.12.9
+###### 2026-11-13
+- [fix] Fixed an issue where Local RSS synchronization does not work. https://github.com/seazon/FeedMe/issues/277
+- [fix] Fixed the issue where YouTube video cannot be played. https://github.com/seazon/FeedMe/issues/276
+- [fix] Fixed the issue where `Mark read 1 day ago` and `Mark read 1 week ago` failed.
+- [other] Other UI optimization.
+
 ### 4.12.8
 ###### 2026-11-9
 - [fix] Fixed an issue where extra categories were created for no reason. https://github.com/seazon/FeedMe/issues/266
