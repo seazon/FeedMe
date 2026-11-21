@@ -1,3 +1,11 @@
+### 4.12.10
+###### 2026-11-22
+- [fix] Feed layout no longer resets after sync. (#262)
+- [fix] Feed settings reset now takes effect. (#285)
+- [fix] Action bar stays visible after tapping a link. (#282)
+- [fix] Fix auto-refresh of the current article after sync. (#254)
+- [other] Minor UI improvements.
+
 ### 4.12.9
 ###### 2026-11-13
 - [fix] Fixed an issue where Local RSS synchronization does not work. https://github.com/seazon/FeedMe/issues/277
