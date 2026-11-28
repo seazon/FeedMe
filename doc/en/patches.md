@@ -1,3 +1,20 @@
+# 4.13.0
+###### 2026-11-28
+- [new] Reading review page. (top of sidebar)
+  - Google Drive sync supported.
+- [new] Podcast download manager. (under sidebar playlists)
+  - Hide entry: `Settings` - `Interface` - `Custom Nav Items`.
+- [new] Custom app icons: `Settings` - `Custom` - `App Icon`.
+- [optimize] Online audio caching.
+  - Clear cache: `Settings` - `Cache` - `Clear Cache` - `Other cached podcasts`.
+- [optimize] One-click copy Feed URL in subscription setting dialog.
+- [optimize] Player indicator for stream / local audio.
+- [optimize] Tap notification controls & widget to open player.
+- [fix] Cursor drag scrolling broken in input fields.
+- [fix] UI not refreshing after saving prompts.
+- [fix] No sound for partially downloaded audio.
+- [other] Minor UI tweaks.
+
 ### 4.12.10
 ###### 2026-11-22
 - [fix] Feed layout no longer resets after sync. (#262)
